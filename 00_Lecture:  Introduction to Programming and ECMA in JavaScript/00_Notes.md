@@ -37,20 +37,29 @@ ECMA (European Computer Manufacturers Association) is an organization that sets 
 
 JavaScript follows a standard called ECMAScript (ES). This standard ensures that JavaScript works consistently across different platforms and browsers.
 
-Key Versions of ECMAScript:
+### Key Versions of ECMAScript:
+
 ES5 (2009): Introduced features like strict mode and array methods.
+
 ES6 (2015): A major update with features like let, const, arrow functions, and classes.
+
 Later versions: ES7, ES8, and so on, added more advanced features like async/await, promises, and optional chaining.
-Why is ECMA Important?
-It defines the rules and syntax for JavaScript.
-Helps JavaScript evolve while maintaining compatibility with older versions.
-Ensures developers have a common understanding of how JavaScript works.
-Simple Example of ECMAScript Evolution:
-ES5 Syntax:
+
+## Why is ECMA Important?
+- It defines the rules and syntax for JavaScript.
+- Helps JavaScript evolve while maintaining compatibility with older versions.
+- Ensures developers have a common understanding of how JavaScript works.
+  
+### Simple Example of ECMAScript Evolution:
+
+#### ES5 Syntax:
+```
 var name = "John";
 console.log("Hello, " + name);
 ES6 Syntax (Modern JavaScript):
 const name = "John";
 console.log(`Hello, ${name}`);
+```
+
 The ES6 syntax is cleaner and easier to read!
 
