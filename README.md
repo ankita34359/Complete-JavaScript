@@ -39,7 +39,7 @@ I will make it along with as i will upload the lectures.
 Learning Resource: CodeWithHarry - The Ultimate JavaScript 
 
 ## Contact
-If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+If you have any questions, suggestions, or would like to discuss JavaScript concepts, feel free to reach out:
 
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
