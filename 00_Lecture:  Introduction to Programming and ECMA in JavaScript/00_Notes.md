@@ -5,11 +5,12 @@ Programming is the process of giving instructions to a computer to perform speci
 ## Key Points about Programming:
 
 ### Why do we need programming?
-To solve problems efficiently using computers.
 
-To automate repetitive tasks.
+- To solve problems efficiently using computers.
 
-To create applications, websites, games, and more.
+- To automate repetitive tasks.
+
+- To create applications, websites, games, and more.
 
 ### How does programming work?
 
