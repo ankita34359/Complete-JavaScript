@@ -15,22 +15,6 @@ Programming is the process of giving instructions to a computer to perform speci
 - A programmer writes code in a specific programming language (like JavaScript).
 - The code is converted into machine language (binary) that the computer can execute.
 
-### Example of Programming:
-
-Suppose we want your computer to add two numbers:
-```
-let number1 = 5;
-let number2 = 10;
-let sum = number1 + number2;
-console.log("The sum is: " + sum);
-```
-
-Here, the program:
-
-- Stores two numbers.
-- Add them together.
-- Displays the result.
-
 ## What is ECMA in JavaScript?
 
 ECMA (European Computer Manufacturers Association) is an organization that sets standards for technologies, including programming languages.
@@ -49,20 +33,3 @@ Later versions: ES7, ES8, and so on, added more advanced features like async/awa
 - It defines the rules and syntax for JavaScript.
 - Helps JavaScript evolve while maintaining compatibility with older versions.
 - Ensures developers have a common understanding of how JavaScript works.
-  
-### Simple Example of ECMAScript Evolution:
-
-#### ES5 Syntax:
-```
-var name = "John";
-console.log("Hello, " + name);
-```
-#### ES6 Syntax (Modern JavaScript):
-
-```
-const name = "John";
-console.log(`Hello, ${name}`);
-```
-
-The ES6 syntax is cleaner and easier to read!
-
