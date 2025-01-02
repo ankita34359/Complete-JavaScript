@@ -2,6 +2,7 @@
 
 Suppose we want your computer to add two numbers:
 
+ ![Screenshot](i1.png)
 
 Here, the program:
 
@@ -14,8 +15,6 @@ Here, the program:
 
 ### ES5 Syntax and ES6 Syntax (Modern JavaScript)::
 
-
-
-
+![Screenshot](i2.png)
 
 The ES6 syntax is cleaner and easier to read!
