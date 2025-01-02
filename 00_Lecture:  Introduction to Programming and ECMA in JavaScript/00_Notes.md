@@ -56,7 +56,10 @@ Later versions: ES7, ES8, and so on, added more advanced features like async/awa
 ```
 var name = "John";
 console.log("Hello, " + name);
-ES6 Syntax (Modern JavaScript):
+```
+#### ES6 Syntax (Modern JavaScript):
+
+```
 const name = "John";
 console.log(`Hello, ${name}`);
 ```
