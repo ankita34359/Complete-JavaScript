@@ -13,7 +13,6 @@ Programming is the process of giving instructions to a computer to perform speci
 ### How does programming work?
 
 - A programmer writes code in a specific programming language (like JavaScript).
-
 - The code is converted into machine language (binary) that the computer can execute.
 
 ### Example of Programming:
@@ -29,9 +28,7 @@ console.log("The sum is: " + sum);
 Here, the program:
 
 - Stores two numbers.
-
 - Add them together.
-
 - Displays the result.
 
 ## What is ECMA in JavaScript?
