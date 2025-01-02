@@ -7,16 +7,14 @@ Programming is the process of giving instructions to a computer to perform speci
 ### Why do we need programming?
 
 - To solve problems efficiently using computers.
-
 - To automate repetitive tasks.
-
 - To create applications, websites, games, and more.
 
 ### How does programming work?
 
-A programmer writes code in a specific programming language (like JavaScript).
+- A programmer writes code in a specific programming language (like JavaScript).
 
-The code is converted into machine language (binary) that the computer can execute.
+- The code is converted into machine language (binary) that the computer can execute.
 
 ### Example of Programming:
 
@@ -30,11 +28,11 @@ console.log("The sum is: " + sum);
 
 Here, the program:
 
-Stores two numbers.
+- Stores two numbers.
 
-Add them together.
+- Add them together.
 
-Displays the result.
+- Displays the result.
 
 ## What is ECMA in JavaScript?
 
