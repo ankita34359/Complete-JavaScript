@@ -1,6 +1,6 @@
 # JavaScript Learning Journey
 
-Welcome to my JavaScript learning repository! This repository is dedicated to documenting my journey as I learn JavaScript from scratch from CodeWithHarry. The name of the course is **The ultimate JavaScript**. This repository will serve as a structured and detailed record of my progress, understanding, and practice. It is not the exactly what is in the course I have modify the things as per my needs and level of knowledge. I have used this course for my reference so that I don't forgot to study any important topics. 
+Welcome to my JavaScript learning repository! This repository is dedicated to documenting my journey as I learn JavaScript from scratch from CodeWithHarry. The name of the course is **The ultimate JavaScript**. This repository will serve as a structured and detailed record of my progress, understanding, and practice. It is not the exactly what is in the course, I have modify the things as per my needs and level of knowledge. I have used this course for my reference so that I don't forgot to study any important topics. 
 
 ## What This Repository Contains
 
