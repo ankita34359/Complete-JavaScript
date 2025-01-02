@@ -11,10 +11,14 @@ To automate repetitive tasks.
 
 To create applications, websites, games, and more.
 
-How does programming work?
+### How does programming work?
+
 A programmer writes code in a specific programming language (like JavaScript).
+
 The code is converted into machine language (binary) that the computer can execute.
-Example of Programming:
+
+### Example of Programming:
+
 Imagine you want your computer to add two numbers:
 let number1 = 5;
 let number2 = 10;
