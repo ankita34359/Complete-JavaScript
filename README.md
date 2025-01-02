@@ -38,4 +38,12 @@ I will make it along with as i will upload the lectures.
 ## Credits
 Learning Resource: CodeWithHarry - The Ultimate JavaScript 
 
+## Contact
+If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+  
+Stay tuned as I add more content and practical examples to deepen my understanding of JavaScript. 
+
 Feel free to star ⭐ this repository if you find it helpful, and join me on this exciting learning journey!
