@@ -1,6 +1,6 @@
 # JavaScript Learning Journey
 
-Welcome to my JavaScript learning repository! This repository is dedicated to documenting my journey as I learn JavaScript from scratch from CodeWithHarry. This repository will serve as a structured and detailed record of my progress, understanding, and practice.
+Welcome to my JavaScript learning repository! This repository is dedicated to documenting my journey as I learn JavaScript from scratch from CodeWithHarry. This repository will serve as a structured and detailed record of my progress, understanding, and practice. It is not the exactly what is in the course I have modify the things as per my needs and requirements.
 
 ## What This Repository Contains
 
