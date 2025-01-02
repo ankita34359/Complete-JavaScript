@@ -29,12 +29,13 @@ I will make it along with as i will upload the lectures.
 - **Sharing Knowledge:** To help others who are also on a similar journey of learning JavaScript from scratch.
 - **Portfolio Building:** Documenting progress and showcasing practical skills for future references.
   
-How to Use This Repository
-Go to the Theory folder to read detailed notes for each lecture.
-Check out the Practice folder for code examples and screenshots.
-Clone the repository if you’d like to practice along with the course.
-“git clone https://github.com/your-username/javascript-learning.git”
+## How to Use This Repository
 
-Credits
-Learning Resource: CodeWithHarry - JavaScript Tutorial for Beginners
+- Go to the Notes file to read detailed notes for each lecture.
+- Check out the HandsOn_Code for code examples and screenshots.
+- Clone the repository if you’d like to practice along with the course.
+
+## Credits
+Learning Resource: CodeWithHarry - The Ultimate JavaScript 
+
 Feel free to star ⭐ this repository if you find it helpful, and join me on this exciting learning journey!
