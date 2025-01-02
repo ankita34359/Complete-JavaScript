@@ -20,10 +20,12 @@ The code is converted into machine language (binary) that the computer can execu
 ### Example of Programming:
 
 Imagine you want your computer to add two numbers:
+```
 let number1 = 5;
 let number2 = 10;
 let sum = number1 + number2;
 console.log("The sum is: " + sum);
+```
 Here, the program:
 Stores two numbers.
 Add them together.
