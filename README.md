@@ -31,8 +31,8 @@ I will make it along with as i will upload the lectures.
   
 ## How to Use This Repository
 
-- Go to the Notes file to read detailed notes for each lecture.
-- Check out the HandsOn_Code for code examples and screenshots.
+- Go to the **Notes** file to read detailed notes for each lecture.
+- Check out the **HandsOn_Code** for code examples and screenshots.
 - Clone the repository if you’d like to practice along with the course.
 
 ## Credits
