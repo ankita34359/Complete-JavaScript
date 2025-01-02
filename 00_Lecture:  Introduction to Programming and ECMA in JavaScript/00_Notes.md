@@ -19,20 +19,28 @@ The code is converted into machine language (binary) that the computer can execu
 
 ### Example of Programming:
 
-Imagine you want your computer to add two numbers:
+Suppose we want your computer to add two numbers:
 ```
 let number1 = 5;
 let number2 = 10;
 let sum = number1 + number2;
 console.log("The sum is: " + sum);
 ```
+
 Here, the program:
+
 Stores two numbers.
+
 Add them together.
+
 Displays the result.
-What is ECMA in JavaScript?
+
+## What is ECMA in JavaScript?
+
 ECMA (European Computer Manufacturers Association) is an organization that sets standards for technologies, including programming languages.
+
 JavaScript follows a standard called ECMAScript (ES). This standard ensures that JavaScript works consistently across different platforms and browsers.
+
 Key Versions of ECMAScript:
 ES5 (2009): Introduced features like strict mode and array methods.
 ES6 (2015): A major update with features like let, const, arrow functions, and classes.
