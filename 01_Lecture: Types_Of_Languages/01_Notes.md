@@ -4,3 +4,13 @@ This document provides an overview of **statically typed** and **dynamically typ
 
 ---
 
+## What Are They?
+
+Programming languages can be classified based on how they handle type-checking:
+
+### **Statically Typed Languages**
+- In statically typed languages, the data type of a variable is determined at compile time.
+- Variables must be declared with a type (explicitly or inferred).
+- Type errors are caught during compilation.
+
+**Examples:** C, C++, Java, TypeScript, Rust.
