@@ -39,6 +39,8 @@ int main() {
 }
 ```
 
+---
+
 ### Statically Typed Language Example (Java):
 
 ```java
@@ -56,6 +58,8 @@ public class Main {
 }
 ```
 
+---
+
 ### Dynamically Typed Language Example (Python):
 
 ```python
@@ -69,6 +73,8 @@ age = "twenty-five"
  # Output: Age: twenty-five
 print("Age:", age)     
 ```
+
+---
 
 ### Dynamically Typed Language Example (JavaScript):
 
