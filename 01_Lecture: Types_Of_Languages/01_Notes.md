@@ -41,3 +41,8 @@ Programming languages can be classified based on how they handle type-checking:
   - Ideal for large-scale applications where type safety and maintainability are critical.
   - Reduces runtime errors and makes debugging easier.
 
+- **Dynamically Typed Languages:**
+  - Great for rapid prototyping and smaller projects.
+  - Allows for flexibility and faster development cycles.
+
+---
