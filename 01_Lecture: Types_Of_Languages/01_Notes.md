@@ -14,3 +14,12 @@ Programming languages can be classified based on how they handle type-checking:
 - Type errors are caught during compilation.
 
 **Examples:** C, C++, Java, TypeScript, Rust.
+
+### **Dynamically Typed Languages**
+- In dynamically typed languages, the data type of a variable is determined at runtime.
+- Variables do not require a type declaration; their types can change dynamically.
+- Type errors are caught only during program execution.
+
+**Examples:** JavaScript, Python, Ruby, PHP.
+
+---
