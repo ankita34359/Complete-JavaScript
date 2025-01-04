@@ -23,3 +23,15 @@ Programming languages can be classified based on how they handle type-checking:
 **Examples:** JavaScript, Python, Ruby, PHP.
 
 ---
+
+## Key Differences
+
+| **Aspect**             | **Statically Typed**                  | **Dynamically Typed**           |
+|------------------------|--------------------------------------|---------------------------------|
+| **Type Checking**      | Compile-time                         | Runtime                         |
+| **Type Declaration**   | Required (explicit or inferred)      | Not required                    |
+| **Error Detection**    | Before execution (compile-time)      | During execution (runtime)      |
+| **Flexibility**        | More rigid; fewer runtime surprises  | More flexible but prone to errors|
+| **Performance**        | Often faster due to type safety      | May have overhead for type checks|
+
+---
