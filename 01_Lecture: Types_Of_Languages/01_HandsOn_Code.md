@@ -54,6 +54,20 @@ public class Main {
 }
 ```
 
+### Dynamically Typed Language Example (Python):
+
+```python
+
+# Variable `age` is initially a number
+age = 25
+
+ # No error: Variable `age` is now a string            
+age = "twenty-five"
+
+ # Output: Age: twenty-five
+print("Age:", age)     
+```
+
 ### Dynamically Typed Language Example (JavaScript):
 
  ![Screenshot](i1.png)
