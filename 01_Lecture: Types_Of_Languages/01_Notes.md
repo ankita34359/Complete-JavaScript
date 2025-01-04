@@ -35,3 +35,9 @@ Programming languages can be classified based on how they handle type-checking:
 | **Performance**        | Often faster due to type safety      | May have overhead for type checks|
 
 ---
+
+## When to Use Which?
+- **Statically Typed Languages:**
+  - Ideal for large-scale applications where type safety and maintainability are critical.
+  - Reduces runtime errors and makes debugging easier.
+
