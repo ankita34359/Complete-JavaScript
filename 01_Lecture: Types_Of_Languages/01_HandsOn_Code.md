@@ -1,4 +1,4 @@
-## Simple Examples
+## Simple Examples Of Statically Typed Language and  Dynamically Typed Language: 
 
 ### Statically Typed Language Example (C):
 
@@ -17,6 +17,8 @@ int main() {
     return 0;
 }
 ```
+
+---
 
 ### Statically Typed Language Example (C++):
 
