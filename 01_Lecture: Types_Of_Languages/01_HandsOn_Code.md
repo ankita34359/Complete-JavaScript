@@ -37,6 +37,23 @@ int main() {
 }
 ```
 
+### Statically Typed Language Example (Java):
+
+```java
+public class Main {
+    public static void main(String[] args) {
+
+        // Declaring a variable with a specific type
+        int age = 25;
+
+        // Error: Incompatible types    
+        age = "twenty-five";
+
+        System.out.println("Age: " + age);
+    }
+}
+```
+
 ### Dynamically Typed Language Example (JavaScript):
 
  ![Screenshot](i1.png)
