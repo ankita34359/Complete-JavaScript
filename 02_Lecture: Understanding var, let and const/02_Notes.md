@@ -83,3 +83,5 @@ The variable's reference cannot change, but the contents of objects or arrays as
 - Use const for constants or values that shouldn’t change.
   
 By using let and const, your code becomes more predictable and easier to debug.
+
+Feel free to explore the examples. Happy coding!
