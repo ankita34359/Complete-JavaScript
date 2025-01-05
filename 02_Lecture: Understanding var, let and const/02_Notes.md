@@ -47,3 +47,21 @@ While let is hoisted, it is not initialized until the code execution reaches its
 #### Why Use let?
 
 let is suitable for variables whose values might change later. Its block scope makes it safer to use in modern code.
+
+## 3. const (For Constants)
+
+const is another way to declare variables, also introduced in ES6. It is used for values that should never change.
+
+### Key Characteristics of const:
+
+#### Block Scoped:
+
+Like let, const is block-scoped and cannot be accessed outside of its block.
+
+#### Cannot Be Reassigned:
+
+Once assigned a value, it cannot be updated.
+
+#### Immutable Reference, Not Immutable Value:
+
+The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
