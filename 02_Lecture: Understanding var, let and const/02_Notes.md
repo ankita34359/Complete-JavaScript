@@ -12,8 +12,8 @@ var was the original way to declare variables in JavaScript. However, it has som
 
 #### Function Scoped:
 
-Variables declared with var are only accessible within the function where they are defined.
-They are not block-scoped, meaning they ignore {} blocks (like in loops or conditionals).
+- Variables declared with var are only accessible within the function where they are defined.
+- They are not block-scoped, meaning they ignore {} blocks (like in loops or conditionals).
 
 #### Can Be Redeclared:
 
