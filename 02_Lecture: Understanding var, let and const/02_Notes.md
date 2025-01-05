@@ -71,6 +71,10 @@ const is another way to declare variables, also introduced in ES6. It is used fo
 
 - The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
 
+#### Why Use const?
+
+Use const when you know the value of a variable will never change. It makes your code more predictable and easier to debug.
+
 ---
 
 ## Comparison of var, let, and const
