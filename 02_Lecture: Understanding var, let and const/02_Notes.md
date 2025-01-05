@@ -2,6 +2,7 @@
 
 In JavaScript, variables are used to store data. The way we declare variables has evolved over time, and today, JavaScript offers three ways to declare them: var, let, and const.
 
+---
 
 ## 1. var (The Old Way)
 
