@@ -66,6 +66,16 @@ Once assigned a value, it cannot be updated.
 
 The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
 
+## Comparison of var, let, and const
+
+| **Feature**       | **var**                              | **let**                     | **const**                   |
+|-------------------|------------------------------------- |-----------------------------|-----------------------------|
+| **Scope**         | Function scoped                      | Block scoped                | Block scoped                |
+| **Redeclaration** | Allowed                              | Not allowed                 | Not allowed                 |
+| **Reassignment**  | Allowed                              | Allowed                     | Not allowed                 |
+| **Hoisting**      | Hoisted (initialized to `undefined`) | Hoisted (uninitialized)     | Hoisted (uninitialized)     |
+
+
 ## Summary:
 
 - Avoid var in modern JavaScript due to its quirks.
