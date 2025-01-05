@@ -26,6 +26,8 @@ Variables declared with var are "hoisted" to the top of their scope, meaning the
 
 The lack of block scope can lead to bugs, especially in large programs. Modern JavaScript prefers let and const.
 
+---
+
 ## 2. let (Modern and Recommended)
 
 let is a newer way to declare variables, introduced in ES6. It fixes many issues of var.
@@ -48,6 +50,8 @@ While let is hoisted, it is not initialized until the code execution reaches its
 
 let is suitable for variables whose values might change later. Its block scope makes it safer to use in modern code.
 
+---
+
 ## 3. const (For Constants)
 
 const is another way to declare variables, also introduced in ES6. It is used for values that should never change.
@@ -66,6 +70,8 @@ Once assigned a value, it cannot be updated.
 
 The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
 
+---
+
 ## Comparison of var, let, and const
 
 | **Feature**       | **var**                              | **let**                     | **const**                   |
@@ -75,6 +81,7 @@ The variable's reference cannot change, but the contents of objects or arrays as
 | **Reassignment**  | Allowed                              | Allowed                     | Not allowed                 |
 | **Hoisting**      | Hoisted (initialized to `undefined`) | Hoisted (uninitialized)     | Hoisted (uninitialized)     |
 
+---
 
 ## Summary:
 
@@ -83,5 +90,7 @@ The variable's reference cannot change, but the contents of objects or arrays as
 - Use const for constants or values that shouldn’t change.
   
 By using let and const, your code becomes more predictable and easier to debug.
+
+---
 
 Feel free to explore the examples. Happy coding!
