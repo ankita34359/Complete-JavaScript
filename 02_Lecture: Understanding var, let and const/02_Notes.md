@@ -17,15 +17,15 @@ var was the original way to declare variables in JavaScript. However, it has som
 
 #### Can Be Redeclared:
 
-You can declare the same variable multiple times without any errors.
+- You can declare the same variable multiple times without any errors.
 
 #### Hoisting:
 
-Variables declared with var are "hoisted" to the top of their scope, meaning they can be used even before their declaration.
+- Variables declared with var are "hoisted" to the top of their scope, meaning they can be used even before their declaration.
 
 #### Why Avoid var?
 
-The lack of block scope can lead to bugs, especially in large programs. Modern JavaScript prefers let and const.
+- The lack of block scope can lead to bugs, especially in large programs. Modern JavaScript prefers let and const.
 
 ---
 
