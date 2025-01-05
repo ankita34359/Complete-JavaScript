@@ -17,7 +17,7 @@ var was the original way to declare variables in JavaScript. However, it has som
 
 #### Can Be Redeclared:
 
-- You can declare the same variable multiple times without any errors.
+- We can declare the same variable multiple times without any errors.
 
 #### Hoisting:
 
@@ -41,7 +41,7 @@ let is a newer way to declare variables, introduced in ES6. It fixes many issues
 
 #### Cannot Be Redeclared:
 
-- You cannot declare the same variable twice within the same scope.
+- We cannot declare the same variable twice within the same scope.
 
 #### Hoisting (but safer):
 
@@ -73,7 +73,7 @@ const is another way to declare variables, also introduced in ES6. It is used fo
 
 #### Why Use const?
 
-Use const when you know the value of a variable will never change. It makes your code more predictable and easier to debug.
+Use const when we know the value of a variable will never change. It makes our code more predictable and easier to debug.
 
 ---
 
@@ -94,7 +94,7 @@ Use const when you know the value of a variable will never change. It makes your
 - Use let for variables that can change.
 - Use const for constants or values that shouldn’t change.
   
-By using let and const, your code becomes more predictable and easier to debug.
+By using let and const, our code becomes more predictable and easier to debug.
 
 ---
 
