@@ -8,7 +8,7 @@
 
 ![Screenshot](i1.png)
 
-## Example of let:
+## Example of const:
 
 ![Screenshot](i3.png)
 
