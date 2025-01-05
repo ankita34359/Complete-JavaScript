@@ -37,15 +37,15 @@ let is a newer way to declare variables, introduced in ES6. It fixes many issues
 
 #### Block Scoped:
 
-Variables declared with let are only accessible within the block ({}) where they are defined.
+- Variables declared with let are only accessible within the block ({}) where they are defined.
 
 #### Cannot Be Redeclared:
 
-You cannot declare the same variable twice within the same scope.
+- You cannot declare the same variable twice within the same scope.
 
 #### Hoisting (but safer):
 
-While let is hoisted, it is not initialized until the code execution reaches its declaration. This prevents using it before declaration.
+- While let is hoisted, it is not initialized until the code execution reaches its declaration. This prevents using it before declaration.
 
 #### Why Use let?
 
@@ -61,15 +61,15 @@ const is another way to declare variables, also introduced in ES6. It is used fo
 
 #### Block Scoped:
 
-Like let, const is block-scoped and cannot be accessed outside of its block.
+- Like let, const is block-scoped and cannot be accessed outside of its block.
 
 #### Cannot Be Reassigned:
 
-Once assigned a value, it cannot be updated.
+- Once assigned a value, it cannot be updated.
 
 #### Immutable Reference, Not Immutable Value:
 
-The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
+- The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
 
 ---
 
