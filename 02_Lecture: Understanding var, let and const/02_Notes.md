@@ -6,7 +6,7 @@ In JavaScript, variables are used to store data. The way we declare variables ha
 
 ## 1. var (The Old Way)
 
-var was the original way to declare variables in JavaScript. However, it has some quirks that make it less ideal in modern code.
+"var" was the original way to declare variables in JavaScript. However, it has some quirks that make it less ideal in modern code.
 
 ### Key Characteristics of var:
 
