@@ -65,3 +65,11 @@ Once assigned a value, it cannot be updated.
 #### Immutable Reference, Not Immutable Value:
 
 The variable's reference cannot change, but the contents of objects or arrays assigned to a const variable can be modified.
+
+## Summary:
+
+- Avoid var in modern JavaScript due to its quirks.
+- Use let for variables that can change.
+- Use const for constants or values that shouldn’t change.
+  
+By using let and const, your code becomes more predictable and easier to debug.
