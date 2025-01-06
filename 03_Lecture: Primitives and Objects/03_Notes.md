@@ -57,3 +57,9 @@ Objects are complex data structures that can store multiple values and methods. 
 - Primitive Stored by Value.
   
 - Object Stored by Reference.
+
+### Conclusion
+
+- Primitives are the building blocks of data in JavaScript, simple and immutable.
+  
+- Objects are versatile and allow us to model complex real-world entities in our programs.
