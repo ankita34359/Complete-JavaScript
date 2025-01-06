@@ -9,7 +9,13 @@
 - undefined
 - NaN (Not-a-Number)
 
-Truthy Values: All other values, including non-zero numbers (5), non-empty strings ("hello"), arrays ([]), and objects ({}).
+Truthy Values: All other values including: 
+
+- non-zero numbers (5)
+- non-empty strings ("hello")
+- arrays ([])
+- objects ({}).
+
 The ? : operator is a shorthand for if-else and is great for simple conditional checks.
 
 
