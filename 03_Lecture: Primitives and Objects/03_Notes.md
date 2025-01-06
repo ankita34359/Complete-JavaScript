@@ -55,5 +55,4 @@ Objects are complex data structures that can store multiple values and methods. 
 ### Primitive vs Object Behavior
 
 - Primitive Stored by Value.
-
 - Object Stored by Reference.
