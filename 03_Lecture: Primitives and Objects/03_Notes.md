@@ -1,8 +1,10 @@
-# 1. Primitives
+# Primitives and Objects in JavaScript
+
+## 1. Primitives
 
 Primitives are the most basic building blocks of JavaScript. They represent single, immutable values.
 
-## Types of Primitives
+### Types of Primitives
 
 JavaScript has the following primitive data types:
 
