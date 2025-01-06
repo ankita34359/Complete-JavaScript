@@ -49,9 +49,7 @@ Objects are complex data structures that can store multiple values and methods. 
 ### Types of Object:
 
 - Basic Object
-
 - Nested Object
-
 - Object with Methods
 
 ### Primitive vs Object Behavior
