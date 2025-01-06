@@ -20,6 +20,10 @@
 
 ![Screenshot](i6.png)
 
-![Screenshot](i4.png)
+# Primitive vs Object Behavior
+
+## Primitive Example (Stored by Value):
+
+![Screenshot](i7.png)
 
 ![Screenshot](i4.png)
