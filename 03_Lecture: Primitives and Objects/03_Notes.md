@@ -10,7 +10,7 @@ JavaScript has the following primitive data types:
 
 - **Number:** Represents numeric values, including integers and floating-point numbers.
 
-Special numeric values:
+    Special numeric values:
 
 - Infinity (e.g., 1 / 0)
 
