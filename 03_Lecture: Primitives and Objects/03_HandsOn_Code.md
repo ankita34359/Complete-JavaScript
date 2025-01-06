@@ -16,7 +16,9 @@
 
 ![Screenshot](i5.png)
 
-![Screenshot](i4.png)
+## Object with Methods:
+
+![Screenshot](i6.png)
 
 ![Screenshot](i4.png)
 
