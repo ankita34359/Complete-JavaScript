@@ -35,3 +35,13 @@ JavaScript has the following primitive data types:
 - **Immutable:** The value cannot be changed after it’s created.
 
 - **Stored by Value:** When you copy a primitive value, a new copy is created.
+
+## 2. Objects
+   
+Objects are complex data structures that can store multiple values and methods. They can hold key-value pairs, functions, and even other objects.
+
+Key Characteristics of Objects:
+
+Mutable: Their values can be changed.
+
+Stored by Reference: When you copy an object, only the reference to the object is copied, not the object itself.
