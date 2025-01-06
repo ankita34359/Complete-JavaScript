@@ -1,1 +1,5 @@
+# Examples of Primitives:
 
+![Screenshot](i1.png)
+
+![Screenshot](i2.png)
