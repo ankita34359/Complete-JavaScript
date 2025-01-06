@@ -36,6 +36,8 @@ JavaScript has the following primitive data types:
 
 - **Stored by Value:** When you copy a primitive value, a new copy is created.
 
+---
+
 ## 2. Objects
    
 Objects are complex data structures that can store multiple values and methods. They can hold key-value pairs, functions, and even other objects.
@@ -52,11 +54,15 @@ Objects are complex data structures that can store multiple values and methods. 
 - Nested Object
 - Object with Methods
 
+---
+
 ### Primitive vs Object Behavior
 
 - Primitive Stored by Value.
   
 - Object Stored by Reference.
+
+---
 
 ### Conclusion
 
