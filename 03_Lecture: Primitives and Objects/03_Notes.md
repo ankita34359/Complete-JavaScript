@@ -10,13 +10,13 @@ JavaScript has the following primitive data types:
 
 - **Number:** Represents numeric values, including integers and floating-point numbers.
 
--- Special numeric values:
+Special numeric values:
 
-    - Infinity (e.g., 1 / 0)
+- Infinity (e.g., 1 / 0)
 
-    - -Infinity
+ - -Infinity
 
-    - NaN (Not a Number, e.g., 0 / 0).
+- NaN (Not a Number, e.g., 0 / 0).
 
 - **String:** Represents text enclosed in single ('), double ("), or backticks (` for template literals).
 
