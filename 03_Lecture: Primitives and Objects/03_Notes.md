@@ -20,18 +20,18 @@ JavaScript has the following primitive data types:
 
 - **String:** Represents text enclosed in single ('), double ("), or backticks (` for template literals).
 
-**Boolean:** Represents logical values: true or false.
+- **Boolean:** Represents logical values: true or false.
 
-**Null:** Represents the intentional absence of any object value. It is a placeholder for "nothing."
+- **Null:** Represents the intentional absence of any object value. It is a placeholder for "nothing."
 
-**Undefined:** Represents a variable that has been declared but not assigned a value.
+- **Undefined:** Represents a variable that has been declared but not assigned a value.
 
-**Symbol:** Represents unique values introduced in ES6.
+- **Symbol:** Represents unique values introduced in ES6.
 
-**BigInt:** Represents very large integers introduced in ES11 (2020).
+- **BigInt:** Represents very large integers introduced in ES11 (2020).
 
 ### Characteristics of Primitives:
 
-**Immutable:** The value cannot be changed after it’s created.
+- **Immutable:** The value cannot be changed after it’s created.
 
-**Stored by Value:** When you copy a primitive value, a new copy is created.
+- **Stored by Value:** When you copy a primitive value, a new copy is created.
