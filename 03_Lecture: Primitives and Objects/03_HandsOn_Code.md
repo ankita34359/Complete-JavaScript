@@ -6,6 +6,8 @@
 
 ![Screenshot](i3.png)
 
+---
+
 # Examples of Objects:
 
 ## Basic Object:
@@ -19,6 +21,8 @@
 ## Object with Methods:
 
 ![Screenshot](i6.png)
+
+---
 
 # Primitive vs Object Behavior
 
