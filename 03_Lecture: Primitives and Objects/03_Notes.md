@@ -40,7 +40,7 @@ JavaScript has the following primitive data types:
    
 Objects are complex data structures that can store multiple values and methods. They can hold key-value pairs, functions, and even other objects.
 
-### Key Characteristics of Objects:
+### Characteristics of Objects:
 
 - **Mutable:** Their values can be changed.
 
