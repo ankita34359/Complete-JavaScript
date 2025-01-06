@@ -26,4 +26,6 @@
 
 ![Screenshot](i7.png)
 
-![Screenshot](i4.png)
+## Object Example (Stored by Reference):
+
+![Screenshot](i8.png)
