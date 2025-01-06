@@ -29,3 +29,9 @@ Special numeric values:
 **Symbol:** Represents unique values introduced in ES6.
 
 **BigInt:** Represents very large integers introduced in ES11 (2020).
+
+### Characteristics of Primitives:
+
+**Immutable:** The value cannot be changed after it’s created.
+
+**Stored by Value:** When you copy a primitive value, a new copy is created.
