@@ -25,3 +25,7 @@ Special numeric values:
 **Null:** Represents the intentional absence of any object value. It is a placeholder for "nothing."
 
 **Undefined:** Represents a variable that has been declared but not assigned a value.
+
+**Symbol:** Represents unique values introduced in ES6.
+
+**BigInt:** Represents very large integers introduced in ES11 (2020).
