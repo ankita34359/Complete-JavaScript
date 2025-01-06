@@ -20,12 +20,14 @@ Special numeric values:
 
 - NaN (Not a Number, e.g., 0 / 0).
 
-String: Represents text enclosed in single ('), double ("), or backticks (` for template literals).
+**String:** Represents text enclosed in single ('), double ("), or backticks (` for template literals).
 
 Example: 'Hello', "World", `Welcome, ${name}!`.
-Boolean: Represents logical values: true or false.
+
+**Boolean:** Represents logical values: true or false.
 
 Example: let isLoggedIn = true;.
+
 Null: Represents the intentional absence of any object value. It is a placeholder for "nothing."
 
 Example: let noValue = null;.
