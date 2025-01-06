@@ -45,3 +45,11 @@ Objects are complex data structures that can store multiple values and methods. 
 - **Mutable:** Their values can be changed.
 
 - **Stored by Reference:** When you copy an object, only the reference to the object is copied, not the object itself.
+
+### Types of Object:
+
+- Basic Object
+
+- Nested Object
+
+- Object with Methods
