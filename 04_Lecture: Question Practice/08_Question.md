@@ -1,6 +1,6 @@
 ## Write a program that concatenates a number and a string, then subtracts the number from the string. Log both results.
 
-**Note:**  
+### **Note:**  
 
 ### Type Coercion in JavaScript:
 
@@ -12,7 +12,7 @@ For -, it always converts both operands to numbers and performs subtraction.
 
 ### String to Number Conversion:
 
-Strings like "5" can be converted to numbers.
+Strings like "6" can be converted to numbers.
 
 If the string cannot be converted (e.g., "five"), it results in NaN (Not-a-Number).
 
