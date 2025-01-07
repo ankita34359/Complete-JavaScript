@@ -32,3 +32,11 @@ An operator is a symbol or keyword that performs an operation on operands.
 
 Used for mathematical calculations.
 
+| **Operator** | **Description**          | **Example** | **Result** |
+|--------------|--------------------------|-------------|------------|
+| `+`          | Addition                 | `5 + 3`     | `8`        |
+| `-`          | Subtraction              | `5 - 3`     | `2`        |
+| `*`          | Multiplication           | `5 * 3`     | `15`       |
+| `/`          | Division                 | `6 / 3`     | `2`        |
+| `%`          | Modulus (remainder)      | `5 % 2`     | `1`        |
+| `**`         | Exponentiation           | `2 ** 3`    | `8`        |
