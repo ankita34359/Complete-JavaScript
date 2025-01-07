@@ -68,3 +68,13 @@ Used to compare two values. They return a Boolean (true or false).
 | `<`          | Less than               | `5 < 3`        | `false`    |
 | `>=`         | Greater than or equal   | `5 >= 5`       | `true`     |
 | `<=`         | Less than or equal      | `5 <= 4`       | `false`    |
+
+4. Logical Operators
+   
+Used to combine multiple conditions.
+
+| **Operator** | **Description** | **Example**      | **Result** |
+|--------------|-----------------|------------------|------------|
+| `&&`         | Logical AND     | `true && false`  | `false`    |
+| `||`         | Logical OR      | `true || false`  | `true`     |
+| `!`          | Logical NOT     | `!true`          | `false`    |
