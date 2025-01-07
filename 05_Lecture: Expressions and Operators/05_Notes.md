@@ -12,3 +12,10 @@ An expression is any valid unit of code that resolves to a value.
 
 Arithmetic Expressions: Perform mathematical operations.
 
+String Expressions: Combine or manipulate strings.
+
+Logical Expressions: Evaluate to true or false.
+
+Function Expressions: Define a function as part of an expression.
+
+Conditional Expressions: Return different values based on a condition (ternary operator).
