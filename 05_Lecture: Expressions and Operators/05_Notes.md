@@ -40,3 +40,16 @@ Used for mathematical calculations.
 | `/`          | Division                 | `6 / 3`     | `2`        |
 | `%`          | Modulus (remainder)      | `5 % 2`     | `1`        |
 | `**`         | Exponentiation           | `2 ** 3`    | `8`        |
+
+2. Assignment Operators
+   
+Used to assign values to variables.
+
+| **Operator** |   **Description**       | **Example**                          |
+|--------------|-------------------------|--------------------------------------|
+| `=`          | Assign                  | `x = 10`                             |
+| `+=`         | Add and assign          | `x += 5` (equivalent to `x = x + 5`) |
+| `-=`         | Subtract and assign     | `x -= 2` (equivalent to `x = x - 2`) |
+| `*=`         | Multiply and assign     | `x *= 3` (equivalent to `x = x * 3`) |
+| `/=`         | Divide and assign       | `x /= 2` (equivalent to `x = x / 2`) |
+| `%=`         | Modulus and assign      | `x %= 3` (equivalent to `x = x % 3`) |
