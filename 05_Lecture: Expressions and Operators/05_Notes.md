@@ -20,13 +20,15 @@ An expression is any valid unit of code that resolves to a value.
 
 **Conditional Expressions:** Return different values based on a condition (ternary operator).
 
-2. Operators
-What is an Operator?
+## 2. Operators
+
+### What is an Operator?
+
 An operator is a symbol or keyword that performs an operation on operands.
 
-## Types of Operators:
+### Types of Operators:
 
-### 1. Arithmetic Operators
+1. Arithmetic Operators
 
 Used for mathematical calculations.
 
