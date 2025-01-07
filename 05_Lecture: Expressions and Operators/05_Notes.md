@@ -91,3 +91,14 @@ Perform operations at the binary level.
 | `~`          | NOT             | `~5`                  |
 | `<<`         | Left shift      | `5 << 1`              |
 | `>>`         | Right shift     | `5 >> 1`              |
+
+6. Special Operators
+   
+Ternary Operator (condition ? true : false):
+
+Typeof Operator:
+
+Delete Operator (removes properties from objects):
+
+Spread and Rest Operators (...):
+
