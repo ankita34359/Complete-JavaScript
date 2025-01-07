@@ -53,3 +53,18 @@ Used to assign values to variables.
 | `*=`         | Multiply and assign     | `x *= 3` (equivalent to `x = x * 3`) |
 | `/=`         | Divide and assign       | `x /= 2` (equivalent to `x = x / 2`) |
 | `%=`         | Modulus and assign      | `x %= 3` (equivalent to `x = x % 3`) |
+
+3. Comparison Operators
+   
+Used to compare two values. They return a Boolean (true or false).
+
+| **Operator** | **Description**         | **Example**    | **Result** |
+|--------------|-------------------------|----------------|------------|
+| `==`         | Equal to                | `5 == "5"`     | `true`     |
+| `===`        | Strict equal to         | `5 === "5"`    | `false`    |
+| `!=`         | Not equal to            | `5 != "5"`     | `false`    |
+| `!==`        | Strict not equal to     | `5 !== "5"`    | `true`     |
+| `>`          | Greater than            | `5 > 3`        | `true`     |
+| `<`          | Less than               | `5 < 3`        | `false`    |
+| `>=`         | Greater than or equal   | `5 >= 5`       | `true`     |
+| `<=`         | Less than or equal      | `5 <= 4`       | `false`    |
