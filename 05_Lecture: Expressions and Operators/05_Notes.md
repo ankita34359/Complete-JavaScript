@@ -78,3 +78,16 @@ Used to combine multiple conditions.
 | `&&`         | Logical AND     | `true && false`  | `false`    |
 | `||`         | Logical OR      | `true || false`  | `true`     |
 | `!`          | Logical NOT     | `!true`          | `false`    |
+
+5. Bitwise Operators
+   
+Perform operations at the binary level.
+
+| **Operator** | **Description** | **Example**           |
+|--------------|-----------------|---------------------- |
+| `&`          | AND             | `5 & 1` (0101 & 0001) |
+| `|`          | OR              | `5 | 1` (0101 | 0001) |
+| `^`          | XOR             | `5 ^ 1` (0101 ^ 0001) |
+| `~`          | NOT             | `~5`                  |
+| `<<`         | Left shift      | `5 << 1`              |
+| `>>`         | Right shift     | `5 >> 1`              |
