@@ -41,7 +41,7 @@ Used for mathematical calculations.
 | `%`          | Modulus (remainder)      | `5 % 2`     | `1`        |
 | `**`         | Exponentiation           | `2 ** 3`    | `8`        |
 
-2. Assignment Operators
+- Assignment Operators
    
 Used to assign values to variables.
 
@@ -54,7 +54,7 @@ Used to assign values to variables.
 | `/=`         | Divide and assign       | `x /= 2` (equivalent to `x = x / 2`) |
 | `%=`         | Modulus and assign      | `x %= 3` (equivalent to `x = x % 3`) |
 
-3. Comparison Operators
+- Comparison Operators
    
 Used to compare two values. They return a Boolean (true or false).
 
@@ -69,7 +69,7 @@ Used to compare two values. They return a Boolean (true or false).
 | `>=`         | Greater than or equal   | `5 >= 5`       | `true`     |
 | `<=`         | Less than or equal      | `5 <= 4`       | `false`    |
 
-4. Logical Operators
+- Logical Operators
    
 Used to combine multiple conditions.
 
@@ -79,7 +79,7 @@ Used to combine multiple conditions.
 | `||`         | Logical OR      | `true || false`  | `true`     |
 | `!`          | Logical NOT     | `!true`          | `false`    |
 
-5. Bitwise Operators
+- Bitwise Operators
    
 Perform operations at the binary level.
 
@@ -92,13 +92,13 @@ Perform operations at the binary level.
 | `<<`         | Left shift      | `5 << 1`              |
 | `>>`         | Right shift     | `5 >> 1`              |
 
-6. Special Operators
+- Special Operators
    
-Ternary Operator (condition ? true : false):
+   - Ternary Operator (condition ? true : false):
 
-Typeof Operator:
+   - Typeof Operator:
 
-Delete Operator (removes properties from objects):
+   - Delete Operator (removes properties from objects):
 
-Spread and Rest Operators (...):
+   - Spread and Rest Operators (...):
 
