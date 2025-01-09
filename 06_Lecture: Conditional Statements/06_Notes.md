@@ -21,3 +21,16 @@ if (condition) {
 }
 
 ```
+### b. if...else Statement
+
+The if...else statement provides an alternative block of code to execute when the condition is false.
+
+Syntax:
+
+```
+if (condition) {
+  // Code to execute if condition is true
+} else {
+  // Code to execute if condition is false
+}
+```
