@@ -50,3 +50,22 @@ if (condition1) {
   // Code to execute if none of the conditions are true
 }
 ```
+
+### d. switch Statement
+
+The switch statement evaluates an expression and matches its value against multiple case clauses. It is used when you need to compare a single value against several possibilities.
+
+Syntax:
+
+```javascript
+switch (expression) {
+  case value1:
+    // Code to execute if expression === value1
+    break;
+  case value2:
+    // Code to execute if expression === value2
+    break;
+  default:
+    // Code to execute if no case matches
+}
+```
