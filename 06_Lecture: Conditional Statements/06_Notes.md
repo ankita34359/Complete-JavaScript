@@ -104,3 +104,11 @@ Logical operators are often used in conditional statements to combine conditions
 - && (AND): Both conditions must be true.
 - || (OR): At least one condition must be true.
 - ! (NOT): Negates a condition.
+
+## 4. Best Practices for Conditional Statements
+
+- Use switch for multiple values: When you need to compare a single variable against many values, use a switch instead of multiple if...else 
+  blocks.
+- Keep conditions simple: Break down complex conditions into smaller, readable parts.
+- Avoid deeply nested conditionals: Use functions or return statements to simplify nested logic.
+- Use ternary operators for concise conditions: For simple if...else statements, use ternary operators.
