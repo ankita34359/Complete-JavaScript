@@ -112,3 +112,9 @@ Logical operators are often used in conditional statements to combine conditions
 - Keep conditions simple: Break down complex conditions into smaller, readable parts.
 - Avoid deeply nested conditionals: Use functions or return statements to simplify nested logic.
 - Use ternary operators for concise conditions: For simple if...else statements, use ternary operators.
+
+## 5. Summary
+
+- Conditional statements allow you to control the flow of your program based on conditions.
+- Common statements include if, if...else, if...else if...else, switch, and the ternary operator.
+- Logical operators (&&, ||, !) and knowledge of truthy/falsy values are crucial for writing effective conditionals.
