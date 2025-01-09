@@ -78,4 +78,5 @@ Syntax:
 
 ```javascript
 condition ? expressionIfTrue : expressionIfFalse;
+
 ```
