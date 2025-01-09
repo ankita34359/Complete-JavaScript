@@ -84,3 +84,15 @@ condition ? expressionIfTrue : expressionIfFalse;
 ### f. Nested Conditionals
 
 Conditionals can be nested within one another to handle more complex decision-making.
+
+## 3. Key Concepts
+
+### a. Truthy and Falsy Values
+
+JavaScript evaluates certain values as true or false in conditional statements.
+
+Truthy Values: Any value that is not false, 0, "" (empty string), null, undefined, or NaN.
+
+Example: 1, "Hello", {}, [], true.
+
+Falsy Values: false, 0, "", null, undefined, NaN.
