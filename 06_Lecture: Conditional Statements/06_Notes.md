@@ -69,3 +69,13 @@ switch (expression) {
     // Code to execute if no case matches
 }
 ```
+
+### e. Ternary Operator (condition ? expr1 : expr2)
+
+The ternary operator is a shorthand way to write if...else statements. It evaluates a condition and returns one of two values.
+
+Syntax:
+
+```javascript
+condition ? expressionIfTrue : expressionIfFalse;
+```
