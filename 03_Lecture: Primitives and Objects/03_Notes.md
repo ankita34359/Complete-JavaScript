@@ -70,4 +70,8 @@ Objects are complex data structures that can store multiple values and methods. 
   
 - Objects are versatile and allow us to model complex real-world entities in our programs.
 
+---
+
 Understanding these differences will help you write better JavaScript code as you continue learning.
+
+Feel free to explore the examples. Happy coding!
