@@ -80,3 +80,7 @@ Syntax:
 condition ? expressionIfTrue : expressionIfFalse;
 
 ```
+
+### f. Nested Conditionals
+
+Conditionals can be nested within one another to handle more complex decision-making.
