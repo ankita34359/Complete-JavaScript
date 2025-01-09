@@ -27,7 +27,7 @@ The if...else statement provides an alternative block of code to execute when th
 
 Syntax:
 
-```
+```javascript
 if (condition) {
   // Code to execute if condition is true
 } else {
