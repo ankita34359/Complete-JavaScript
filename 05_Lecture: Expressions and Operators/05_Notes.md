@@ -110,9 +110,8 @@ Perform operations at the binary level.
 
 ## Conclusion
 
-Expressions evaluate to values.
-
-Operators perform actions or calculations on values.
+- Expressions evaluate to values.
+- Operators perform actions or calculations on values.
 
 ---
 
