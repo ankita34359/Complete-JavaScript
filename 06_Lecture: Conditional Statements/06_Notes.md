@@ -34,3 +34,19 @@ if (condition) {
   // Code to execute if condition is false
 }
 ```
+
+### c. if...else if...else Statement
+
+This statement is used to test multiple conditions. It checks conditions in sequence and executes the block of the first true condition.
+
+Syntax:
+
+```javascript
+if (condition1) {
+  // Code to execute if condition1 is true
+} else if (condition2) {
+  // Code to execute if condition2 is true
+} else {
+  // Code to execute if none of the conditions are true
+}
+```
