@@ -6,4 +6,18 @@ Conditional statements are used in JavaScript to make decisions in our code. The
 
 Conditional statements are programming constructs that execute a block of code only if a specified condition evaluates to true. These are essential for implementing logic in programs.
 
+## 2. Types of Conditional Statements in JavaScript
 
+### a. if Statement
+
+The if statement checks a condition and executes the code block if the condition is true.
+
+Syntax:
+
+```javascript
+
+if (condition) {
+  // Code to execute if condition is true
+}
+
+```
