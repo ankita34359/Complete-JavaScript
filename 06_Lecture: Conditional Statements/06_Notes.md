@@ -6,6 +6,8 @@ Conditional statements are used in JavaScript to make decisions in our code. The
 
 Conditional statements are programming constructs that execute a block of code only if a specified condition evaluates to true. These are essential for implementing logic in programs.
 
+---
+
 ## 2. Types of Conditional Statements in JavaScript
 
 ### a. if Statement
@@ -85,6 +87,8 @@ condition ? expressionIfTrue : expressionIfFalse;
 
 Conditionals can be nested within one another to handle more complex decision-making.
 
+---
+
 ## 3. Key Concepts
 
 ### a. Truthy and Falsy Values
@@ -105,6 +109,8 @@ Logical operators are often used in conditional statements to combine conditions
 - || (OR): At least one condition must be true.
 - ! (NOT): Negates a condition.
 
+---
+
 ## 4. Best Practices for Conditional Statements
 
 - Use switch for multiple values: When you need to compare a single variable against many values, use a switch instead of multiple if...else 
@@ -112,9 +118,15 @@ Logical operators are often used in conditional statements to combine conditions
 - Keep conditions simple: Break down complex conditions into smaller, readable parts.
 - Avoid deeply nested conditionals: Use functions or return statements to simplify nested logic.
 - Use ternary operators for concise conditions: For simple if...else statements, use ternary operators.
+  
+---
 
 ## 5. Summary
 
 - Conditional statements allow you to control the flow of your program based on conditions.
 - Common statements include if, if...else, if...else if...else, switch, and the ternary operator.
 - Logical operators (&&, ||, !) and knowledge of truthy/falsy values are crucial for writing effective conditionals.
+
+---
+
+Feel free to explore the examples. Happy coding!
