@@ -96,3 +96,11 @@ JavaScript evaluates certain values as true or false in conditional statements.
 Example: 1, "Hello", {}, [], true.
 
 **Falsy Values:** false, 0, "", null, undefined, NaN.
+
+### b. Logical Operators in Conditions
+
+Logical operators are often used in conditional statements to combine conditions.
+
+- && (AND): Both conditions must be true.
+- || (OR): At least one condition must be true.
+- ! (NOT): Negates a condition.
