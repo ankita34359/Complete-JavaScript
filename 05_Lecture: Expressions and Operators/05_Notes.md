@@ -8,6 +8,8 @@ In JavaScript, expressions and operators are fundamental building blocks that le
 
 An expression is any valid unit of code that resolves to a value.
 
+---
+
 ### Types of Expressions:
 
 - **Arithmetic Expressions:** Perform mathematical operations.
@@ -19,6 +21,8 @@ An expression is any valid unit of code that resolves to a value.
 - **Function Expressions:** Define a function as part of an expression.
 
 - **Conditional Expressions:** Return different values based on a condition (ternary operator).
+
+---
 
 ## 2. Operators
 
@@ -102,10 +106,16 @@ Perform operations at the binary level.
 
    - Spread and Rest Operators (...):
 
+---
+
 ## Conclusion
 
 Expressions evaluate to values.
 
 Operators perform actions or calculations on values.
 
+---
+
 Understanding the types and usage of operators helps you write clear and efficient code.
+
+Feel free to explore the examples. Happy coding!
