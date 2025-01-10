@@ -2,15 +2,18 @@
 
 ## Example Of Arithmetic Expressions
 ![Screenshot](i1.png)
+
 ## Example Of String Expressions
-![Screenshot](i.png)
+![Screenshot](i2.png)
+
 ## Example Of Logical Expressions
-![Screenshot](i.png)
-![Screenshot](i.png)
+![Screenshot](i3.png)
+
 ## Example Of Function Expressions
-![Screenshot](i.png)
+![Screenshot](i4.png)
+
 ## Example Of Conditional Expressions
-![Screenshot](i.png)
+![Screenshot](i5.png)
 
 ---
 
