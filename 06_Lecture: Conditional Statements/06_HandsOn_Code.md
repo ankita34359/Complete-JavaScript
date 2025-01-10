@@ -1,23 +1,32 @@
 # Example of Conditional Statements in JavaScript
 
-## if Statement
+## a) if Statement
 
 ![Screenshot](i1.png)
 
-## if...else Statement
+---
+
+## b) if...else Statement
 ![Screenshot](i2.png)
 
-## if...else if...else Statement
+---
+
+## c) if...else if...else Statement
 ![Screenshot](i3.png)
 
-## switch Statement
+---
+
+## d) switch Statement
 ![Screenshot](i4.png)
 
-##  Nested Conditionals
+---
+
+## e) Nested Conditionals
 ![Screenshot](i5.png)
 
-## Examples for Practice
+---
 
+## Examples for Practice
 
 ### Check if a Number is Positive, Negative, or Zero
 ![Screenshot](i6.png)
