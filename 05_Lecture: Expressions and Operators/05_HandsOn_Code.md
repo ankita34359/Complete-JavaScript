@@ -20,30 +20,44 @@
 # Example Of Operators
 
 ## Example Of Arithmetic Operators
-![Screenshot](i.png)
+![Screenshot](i6.png)
+
 ## Example Of Assignment Operators
-![Screenshot](i.png)
+![Screenshot](i7.png)
+![Screenshot](i8.png)
+![Screenshot](i9.png)
+![Screenshot](i_10.png)
+![Screenshot](i_11.png)
+![Screenshot](i_12.png)
+
 ## Example Of Comparison Operators
-![Screenshot](i.png)
+![Screenshot](i_13.png)
+
 ## Example Of Logical Operators
-![Screenshot](i.png)
+![Screenshot](i_14.png)
+
 ## Example Of Bitwise Operators
-![Screenshot](i.png)
+![Screenshot](i_15.png)
+
 ## Example Of Special Operators
 ![Screenshot](i.png)
 
 ### Example Of Ternary Operators
-![Screenshot](i.png)
+![Screenshot](i_16.png)
+
 ### Example Of Typeof Operators
-![Screenshot](i.png)
+![Screenshot](i_17.png)
+
 ### Example Of Delete Operators
-![Screenshot](i.png)
+![Screenshot](i_18.png)
+
 ### Example Of Spread Operators
-![Screenshot](i.png)
+![Screenshot](i_19.png)
+
 ### Example Of Rest Operators
-![Screenshot](i.png)
+![Screenshot](i_20.png)
 
 # Example Of Operator Precedence 
-![Screenshot](i.png)
-![Screenshot](i.png)
-![Screenshot](i.png)
+![Screenshot](i_21.png)
+
+![Screenshot](i_22.png)
