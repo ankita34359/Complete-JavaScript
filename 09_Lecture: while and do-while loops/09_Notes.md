@@ -2,6 +2,8 @@
 
 `while` and `do-while` loops allow us to repeatedly execute a block of code based on a condition. They are particularly useful when the number of iterations is not known beforehand.
 
+---
+
 ## The while Loop
 
 ### What is a while Loop?
@@ -27,6 +29,8 @@ while (condition) {
 ### Infinite Loops
 
 Be cautious! If the condition never becomes false, the loop will run forever.
+
+---
 
 ## The do-while Loop
 
@@ -55,6 +59,8 @@ do {
 - The while loop checks the condition first and may not execute the code block if the condition is false.
 - The do-while loop guarantees that the code block will execute at least once, even if the condition is false.
 
+---
+
 ## Use Cases
 
 ### When to Use while
@@ -64,6 +70,8 @@ When you don’t know how many times the loop will run but want to stop when a c
 ### When to Use do-while
 
 When you need the loop to execute at least once before checking the condition.
+
+---
 
 ## Differences Between `while` and `do-while`
 
@@ -75,6 +83,7 @@ The table below summarizes the differences between `while` and `do-while` loops 
 | **Executes At Least Once**| No                                  | Yes                                  |
 | **Use Case**             | When you want to repeat until a condition becomes false | When the code must run at least once |
 
+---
 
 ## Conclusion
 
