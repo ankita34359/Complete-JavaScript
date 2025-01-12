@@ -79,7 +79,7 @@ for (let key in object) {
 
 ---
 
-## # Differences Between `for`, `for...of`, and `for...in`
+### Differences Between `for`, `for...of`, and `for...in`
 
 The table below highlights the differences between the `for`, `for...of`, and `for...in` loops in JavaScript:
 
