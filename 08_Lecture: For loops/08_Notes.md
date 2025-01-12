@@ -70,3 +70,15 @@ for (let key in object) {
 
 - Iterate Over an Object.
 - Iterate Over Array Indexes.
+
+## # Differences Between `for`, `for...of`, and `for...in`
+
+The table below highlights the differences between the `for`, `for...of`, and `for...in` loops in JavaScript:
+
+
+| **Feature**             | **for**                                    | **for...of**                      | **for...in**                     |
+|-------------------------|-----------------------------------------   |------------------------------------|-----------------------------------|
+| **Use Case**            | Iterating with control over index or count | Iterating over values of an iterable | Iterating over keys (objects) or indexes (arrays) |
+| **Iterates Over**       | Anything (with condition)                  | Values of an iterable              | Keys (indexes for arrays, properties for objects)   |
+| **Simpler for Objects** | No                                         | No                                 | Yes                               |
+| **Example (Array)**     | `for (let i = 0; i < arr.length; i++)`     | `for (let value of arr)`           | `for (let index in arr)`          |
