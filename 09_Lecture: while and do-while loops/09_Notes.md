@@ -74,3 +74,11 @@ The table below summarizes the differences between `while` and `do-while` loops 
 | **Condition Check**      | Before the code block executes      | After the code block executes        |
 | **Executes At Least Once**| No                                  | Yes                                  |
 | **Use Case**             | When you want to repeat until a condition becomes false | When the code must run at least once |
+
+
+## Conclusion
+
+- `while Loop:` Best when the number of iterations depends on a condition.
+- `do-while Loop:` Use when the code must run at least once, regardless of the condition.
+- Always ensure your loops have an exit condition to prevent infinite loops.
+- Use break and continue wisely to control loop flow.
