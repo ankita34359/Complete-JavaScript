@@ -17,3 +17,11 @@ for (initialization; condition; increment) {
 }
 
 ```
+
+### Explanation of Components:
+
+- **Initialization:** Declare and initialize the loop variable. Runs once at the start of the loop.
+- **Condition:** The loop runs as long as this condition evaluates to true.
+- **Increment/Decrement:** Updates the loop variable after each iteration.
+
+  
