@@ -82,3 +82,14 @@ The table below highlights the differences between the `for`, `for...of`, and `f
 | **Iterates Over**       | Anything (with condition)                  | Values of an iterable              | Keys (indexes for arrays, properties for objects)   |
 | **Simpler for Objects** | No                                         | No                                 | Yes                               |
 | **Example (Array)**     | `for (let i = 0; i < arr.length; i++)`     | `for (let value of arr)`           | `for (let index in arr)`          |
+
+
+## Best Practices
+
+- Use for...of for clean and readable iterations over arrays and strings.
+- Use for...in when working with objects to iterate over keys.
+- Prefer the traditional we loop when you need:
+     - Control over the iteration process (like skipping specific steps or breaking early).
+     - To iterate over numeric ranges.
+ 
+       
