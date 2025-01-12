@@ -17,3 +17,9 @@ while (condition) {
 }
 
 ```
+
+### How It Works
+
+- The condition is evaluated before each iteration.
+- If the condition evaluates to true, the code block runs.
+- The loop stops when the condition becomes false.
