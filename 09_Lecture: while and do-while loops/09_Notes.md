@@ -54,3 +54,13 @@ do {
 
 - The while loop checks the condition first and may not execute the code block if the condition is false.
 - The do-while loop guarantees that the code block will execute at least once, even if the condition is false.
+
+## Use Cases
+
+### When to Use while
+
+When you don’t know how many times the loop will run but want to stop when a condition becomes false.
+
+### When to Use do-while
+
+When you need the loop to execute at least once before checking the condition.
