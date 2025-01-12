@@ -64,3 +64,13 @@ When you don’t know how many times the loop will run but want to stop when a c
 ### When to Use do-while
 
 When you need the loop to execute at least once before checking the condition.
+
+## Differences Between `while` and `do-while`
+
+The table below summarizes the differences between `while` and `do-while` loops in JavaScript:
+
+| **Feature**              | **while**                           | **do-while**                        |
+|--------------------------|--------------------------------------|--------------------------------------|
+| **Condition Check**      | Before the code block executes      | After the code block executes        |
+| **Executes At Least Once**| No                                  | Yes                                  |
+| **Use Case**             | When you want to repeat until a condition becomes false | When the code must run at least once |
