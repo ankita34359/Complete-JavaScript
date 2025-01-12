@@ -2,6 +2,8 @@
 
 In JavaScript, loops are used to repeat a block of code as long as a specified condition is true. The for loop is one of the most commonly used looping structures, providing a concise and efficient way to iterate through arrays, objects, or other iterable elements.
 
+---
+
 ## The for Loop
 
 ### What is a for Loop?
@@ -29,7 +31,9 @@ for (initialization; condition; increment) {
 - Iterate Over Numbers.
 - Iterate Backwards.
 - Iterate Over Arrays.
-  
+
+---
+
 ## for...of Loop
 
 ### What is for...of?
@@ -49,6 +53,8 @@ for (let element of iterable) {
 - Iterate Over an Array.
 - Iterate Over a String.
 - Iterate Over a Set.
+
+---
 
 ## for...in Loop
 
@@ -71,6 +77,8 @@ for (let key in object) {
 - Iterate Over an Object.
 - Iterate Over Array Indexes.
 
+---
+
 ## # Differences Between `for`, `for...of`, and `for...in`
 
 The table below highlights the differences between the `for`, `for...of`, and `for...in` loops in JavaScript:
@@ -83,6 +91,7 @@ The table below highlights the differences between the `for`, `for...of`, and `f
 | **Simpler for Objects** | No                                         | No                                 | Yes                               |
 | **Example (Array)**     | `for (let i = 0; i < arr.length; i++)`     | `for (let value of arr)`           | `for (let index in arr)`          |
 
+---
 
 ## Best Practices
 
@@ -91,6 +100,8 @@ The table below highlights the differences between the `for`, `for...of`, and `f
 - Prefer the traditional we loop when you need:
      - Control over the iteration process (like skipping specific steps or breaking early).
      - To iterate over numeric ranges.
+
+---
 
 ## Conclusion
 
