@@ -2,5 +2,6 @@
 ### If both are correct, log "Login Successful".
 ### If either is incorrect, log "Invalid credentials".
 
-![Screenshot](i9.png)
+---
 
+![Screenshot](i9.png)
