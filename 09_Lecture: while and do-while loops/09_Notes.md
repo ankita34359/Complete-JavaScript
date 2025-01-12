@@ -49,3 +49,8 @@ do {
 - The code inside the do block runs first.
 - The condition is then checked.
 - If the condition is true, the loop continues. If false, the loop stops.
+
+### Key Difference Between while and do-while
+
+- The while loop checks the condition first and may not execute the code block if the condition is false.
+- The do-while loop guarantees that the code block will execute at least once, even if the condition is false.
