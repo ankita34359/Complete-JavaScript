@@ -86,8 +86,8 @@ The table below highlights the differences between the `for`, `for...of`, and `f
 
 ## Best Practices
 
-- Use for...of for clean and readable iterations over arrays and strings.
-- Use for...in when working with objects to iterate over keys.
+- Use **for...of** for clean and readable iterations over arrays and strings.
+- Use **for...in** when working with objects to iterate over keys.
 - Prefer the traditional we loop when you need:
      - Control over the iteration process (like skipping specific steps or breaking early).
      - To iterate over numeric ranges.
