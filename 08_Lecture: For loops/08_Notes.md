@@ -91,5 +91,9 @@ The table below highlights the differences between the `for`, `for...of`, and `f
 - Prefer the traditional we loop when you need:
      - Control over the iteration process (like skipping specific steps or breaking early).
      - To iterate over numeric ranges.
- 
-       
+
+## Conclusion
+
+- The for loop offers flexibility for controlled iterations.
+- The for...of loop simplifies iteration over arrays, strings, and other iterables.
+- The for...in loop is ideal for iterating over object properties or array indexes.
