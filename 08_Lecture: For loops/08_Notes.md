@@ -49,3 +49,19 @@ for (let element of iterable) {
 - Iterate Over an Array.
 - Iterate Over a String.
 - Iterate Over a Set.
+
+## for...in Loop
+
+### What is for...in?
+
+The for...in loop is used to iterate over the properties (keys) of an object or the indexes of an array.
+
+### Syntax:
+
+```javascript
+
+for (let key in object) {
+  // Code to execute for each property or index
+}
+
+```
