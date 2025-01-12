@@ -27,3 +27,25 @@ while (condition) {
 ### Infinite Loops
 
 Be cautious! If the condition never becomes false, the loop will run forever.
+
+## The do-while Loop
+
+### What is a do-while Loop?
+
+The do-while loop is similar to the while loop, except the condition is checked after the code block is executed. This means the code inside the do block will run at least once, even if the condition is false.
+
+### Syntax:
+
+```javascript
+
+do {
+  // Code to execute at least once
+} while (condition);
+
+```
+
+### How It Works:
+
+- The code inside the do block runs first.
+- The condition is then checked.
+- If the condition is true, the loop continues. If false, the loop stops.
