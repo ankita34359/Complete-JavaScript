@@ -30,3 +30,16 @@ for (initialization; condition; increment) {
 - Iterate Backwards.
 - Iterate Over Arrays.
   
+## for...of Loop
+
+### What is for...of?
+
+The for...of loop is used to iterate over iterable objects like arrays, strings, or other collections. It retrieves the values of the elements directly, making it simpler and more readable.
+
+### Syntax:
+
+```javascript
+for (let element of iterable) {
+  // Code to execute for each element
+}
+```
