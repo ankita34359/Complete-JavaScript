@@ -24,4 +24,9 @@ for (initialization; condition; increment) {
 - **Condition:** The loop runs as long as this condition evaluates to true.
 - **Increment/Decrement:** Updates the loop variable after each iteration.
 
+### Key Features of the for Loop:
+
+- Iterate Over Numbers.
+- Iterate Backwards.
+- Iterate Over Arrays.
   
