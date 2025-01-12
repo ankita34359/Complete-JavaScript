@@ -43,3 +43,9 @@ for (let element of iterable) {
   // Code to execute for each element
 }
 ```
+
+### Key Features of the for...of Loop:
+
+- Iterate Over an Array.
+- Iterate Over a String.
+- Iterate Over a Set.
