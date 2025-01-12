@@ -65,3 +65,8 @@ for (let key in object) {
 }
 
 ```
+
+### Key Features of the for...in Loop:
+
+- Iterate Over an Object.
+- Iterate Over Array Indexes.
