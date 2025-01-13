@@ -74,4 +74,4 @@ Objects are complex data structures that can store multiple values and methods. 
 
 Understanding these differences will help you write better JavaScript code as you continue learning.
 
-Feel free to explore the examples. Happy coding!
+Feel free to explore the examples. Happy coding!  
