@@ -15,3 +15,7 @@ function functionName(parameters) {
   return value; // Optional
 }
 ```
+
+## 2. Functions Without Parameters
+
+Functions without parameters don’t take any inputs. They perform tasks independently of any external data.
