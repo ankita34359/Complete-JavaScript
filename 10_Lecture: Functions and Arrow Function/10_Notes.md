@@ -54,3 +54,7 @@ If an arrow function has no parameters, you use empty parentheses ().
 ## 7. Arrow Function With One Parameter
 
 For a single parameter, you can omit the parentheses.
+
+## 8. Arrow Function With Multiple Parameters
+
+For multiple parameters, parentheses are required.
