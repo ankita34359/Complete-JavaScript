@@ -62,3 +62,13 @@ For multiple parameters, parentheses are required.
 ## Arrow Function with Implicit Return
 
 If the function body has a single expression, you can omit the curly braces {} and the return keyword. The value is implicitly returned.
+
+## Arrow Function vs Regular Function
+
+The table below highlights the differences between regular functions and arrow functions in JavaScript:
+
+| **Feature**        | **Regular Function**                      | **Arrow Function**                     |
+|---------------------|-------------------------------------------|-----------------------------------------|
+| **Syntax**         | More verbose                              | Concise                                 |
+| **`this` Context** | Has its own `this` context                | Uses the `this` context of the outer scope |
+| **Use Case**       | Suitable for methods in objects           | Great for callbacks and short functions |
