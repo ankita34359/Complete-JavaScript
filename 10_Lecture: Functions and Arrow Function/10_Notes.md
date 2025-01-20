@@ -72,3 +72,15 @@ The table below highlights the differences between regular functions and arrow f
 | **Syntax**         | More verbose                              | Concise                                 |
 | **`this` Context** | Has its own `this` context                | Uses the `this` context of the outer scope |
 | **Use Case**       | Suitable for methods in objects           | Great for callbacks and short functions |
+
+## Syntax Differences: Regular Function vs Arrow Function
+
+The table below illustrates the syntax differences between regular functions and arrow functions in JavaScript:
+
+| **Feature**               | **Regular Function**                   | **Arrow Function**                   |
+|---------------------------|----------------------------------------|---------------------------------------|
+| **No Parameters**         | `function greet() {}`                 | `const greet = () => {}`             |
+| **One Parameter**         | `function greet(name) {}`             | `const greet = name => {}`           |
+| **Multiple Parameters**   | `function add(a, b) {}`               | `const add = (a, b) => {}`           |
+| **Return Value (Explicit)**| `return a * b;`                      | `return a * b;`                      |
+| **Return Value (Implicit)**| Not Applicable                       | `const multiply = (a, b) => a * b;`  |
