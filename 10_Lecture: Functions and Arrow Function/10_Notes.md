@@ -27,3 +27,16 @@ Functions with parameters take inputs (arguments) and use them to perform specif
 ## 4. Returning Values from Functions
 
 Functions can return a value using the return keyword.
+
+## 5. Arrow Functions
+
+Arrow functions are a shorter way to write functions introduced in ES6 (ECMAScript 2015). They have a simpler syntax and are especially useful for writing concise, one-liner functions.
+
+Syntax:
+
+```javascript
+const functionName = (parameters) => {
+  // Code to execute
+  return value; // Optional
+};
+```
