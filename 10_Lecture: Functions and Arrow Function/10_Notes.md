@@ -40,3 +40,9 @@ const functionName = (parameters) => {
   return value; // Optional
 };
 ```
+
+### Key Differences from Regular Functions:
+
+- **Simpler Syntax:** Arrow functions are more concise.
+- **No this Binding:** Arrow functions don’t bind their own this context.
+- **Ideal for Callbacks:** Great for short, inline functions.
