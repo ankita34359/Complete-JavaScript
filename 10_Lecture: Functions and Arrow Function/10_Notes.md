@@ -19,3 +19,7 @@ function functionName(parameters) {
 ## 2. Functions Without Parameters
 
 Functions without parameters don’t take any inputs. They perform tasks independently of any external data.
+
+## 3. Functions With Parameters
+
+Functions with parameters take inputs (arguments) and use them to perform specific tasks.
