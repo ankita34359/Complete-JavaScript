@@ -46,3 +46,7 @@ const functionName = (parameters) => {
 - **Simpler Syntax:** Arrow functions are more concise.
 - **No this Binding:** Arrow functions don’t bind their own this context.
 - **Ideal for Callbacks:** Great for short, inline functions.
+
+## 6. Arrow Function Without Parameters
+
+If an arrow function has no parameters, you use empty parentheses ().
