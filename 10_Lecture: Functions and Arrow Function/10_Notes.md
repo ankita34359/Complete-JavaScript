@@ -58,3 +58,7 @@ For a single parameter, you can omit the parentheses.
 ## 8. Arrow Function With Multiple Parameters
 
 For multiple parameters, parentheses are required.
+
+## Arrow Function with Implicit Return
+
+If the function body has a single expression, you can omit the curly braces {} and the return keyword. The value is implicitly returned.
