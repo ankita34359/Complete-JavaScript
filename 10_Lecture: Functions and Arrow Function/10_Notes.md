@@ -23,3 +23,7 @@ Functions without parameters don’t take any inputs. They perform tasks indepen
 ## 3. Functions With Parameters
 
 Functions with parameters take inputs (arguments) and use them to perform specific tasks.
+
+## 4. Returning Values from Functions
+
+Functions can return a value using the return keyword.
