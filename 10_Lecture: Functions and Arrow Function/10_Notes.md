@@ -2,8 +2,9 @@
 
 Functions are fundamental building blocks in JavaScript. They allow us to organize code into reusable, logical units. This lecture covers two types of functions in detail: regular functions (with and without parameters) and arrow functions (with and without parameters).
 
-##  What is a Function?
+---
 
+##  What is a Function?
 
 A function is a block of code designed to perform a specific task. Functions help organize and reuse code, making programs more efficient and easier to maintain.
 
@@ -47,6 +48,8 @@ const functionName = (parameters) => {
 - **No this Binding:** Arrow functions don’t bind their own this context.
 - **Ideal for Callbacks:** Great for short, inline functions.
 
+---
+
 ## Arrow Function Without Parameters
 
 If an arrow function has no parameters, you use empty parentheses ().
@@ -63,6 +66,8 @@ For multiple parameters, parentheses are required.
 
 If the function body has a single expression, you can omit the curly braces {} and the return keyword. The value is implicitly returned.
 
+---
+
 ## Arrow Function vs Regular Function
 
 The table below highlights the differences between regular functions and arrow functions in JavaScript:
@@ -72,6 +77,8 @@ The table below highlights the differences between regular functions and arrow f
 | **Syntax**         | More verbose                              | Concise                                 |
 | **`this` Context** | Has its own `this` context                | Uses the `this` context of the outer scope |
 | **Use Case**       | Suitable for methods in objects           | Great for callbacks and short functions |
+
+---
 
 ## Syntax Differences: Regular Function vs Arrow Function
 
@@ -84,6 +91,8 @@ The table below illustrates the syntax differences between regular functions and
 | **Multiple Parameters**   | `function add(a, b) {}`               | `const add = (a, b) => {}`           |
 | **Return Value (Explicit)**| `return a * b;`                      | `return a * b;`                      |
 | **Return Value (Implicit)**| Not Applicable                       | `const multiply = (a, b) => a * b;`  |
+
+---
 
 ## Conclusion
 
