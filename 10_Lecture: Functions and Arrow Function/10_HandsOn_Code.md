@@ -24,6 +24,8 @@
 
 # Arrow Function with Implicit Return
 
+![Screenshot](i7.png)
+
 # Examples for Practice
 
 ## Calculate Square Using Functions
