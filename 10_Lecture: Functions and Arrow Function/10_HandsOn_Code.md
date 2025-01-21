@@ -34,4 +34,6 @@
 
 ## Using Arrow Function in Array Methods
 
+![Screenshot](i9.png)
+
 ## Returning an Object with Arrow Function
