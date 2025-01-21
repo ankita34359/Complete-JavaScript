@@ -18,8 +18,6 @@
 
 # Example of for...of Loop
 
-![Screenshot](i5.png)
-
 ## Iterate Over an Array:
 
 ![Screenshot](i5.png)
