@@ -30,6 +30,8 @@
 
 ## Calculate Square Using Functions
 
+![Screenshot](i8.png)
+
 ## Using Arrow Function in Array Methods
 
 ## Returning an Object with Arrow Function
