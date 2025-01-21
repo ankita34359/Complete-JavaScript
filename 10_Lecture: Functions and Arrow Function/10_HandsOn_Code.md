@@ -16,6 +16,8 @@
 
 # Arrow Function With One Parameter
 
+![Screenshot](i5.png)
+
 # Arrow Function With Multiple Parameters
 
 # Arrow Function with Implicit Return
