@@ -37,3 +37,5 @@
 ![Screenshot](i9.png)
 
 ## Returning an Object with Arrow Function
+
+![Screenshot](i_10.png)
