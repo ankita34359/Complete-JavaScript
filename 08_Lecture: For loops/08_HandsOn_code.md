@@ -2,6 +2,8 @@
 
 ![Screenshot](i1.png)
 
+---
+
 # Key Features of the for Loop:
 
 ## Iterate Over Numbers:
@@ -15,6 +17,8 @@
 ## Iterate Over Arrays:
 
 ![Screenshot](i4.png)
+
+---
 
 # Example of for...of Loop
 
@@ -30,6 +34,8 @@
 
 ![Screenshot](i7.png)
 
+---
+
 # Example of for...in Loop
 
 ## Iterate Over an Object:
@@ -39,6 +45,8 @@
 ## Iterate Over Array Indexes:
 
 ![Screenshot](i9.png)
+
+---
 
 # Examples for Practice
 
