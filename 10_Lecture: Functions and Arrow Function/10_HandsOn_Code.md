@@ -20,6 +20,8 @@
 
 # Arrow Function With Multiple Parameters
 
+![Screenshot](i6.png)
+
 # Arrow Function with Implicit Return
 
 # Examples for Practice
