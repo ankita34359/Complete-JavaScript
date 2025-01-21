@@ -8,6 +8,8 @@
 
 # Returning Values from Functions
 
+![Screenshot](i3.png)
+
 # Arrow Function Without Parameters
 
 # Arrow Function With One Parameter
