@@ -1,7 +1,10 @@
 # Functions Without Parameters
 
 ![Screenshot](i1.png)
+
 # Functions With Parameters
+
+![Screenshot](i2.png)
 
 # Returning Values from Functions
 
