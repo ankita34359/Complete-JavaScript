@@ -1,41 +1,41 @@
-# Functions Without Parameters
+# Example of Functions Without Parameters
 
 ![Screenshot](i1.png)
 
-# Functions With Parameters
+# Example of Functions With Parameters
 
 ![Screenshot](i2.png)
 
-# Returning Values from Functions
+# Example of Returning Values from Functions
 
 ![Screenshot](i3.png)
 
-# Arrow Function Without Parameters
+# Example of Arrow Function Without Parameters
 
 ![Screenshot](i4.png)
 
-# Arrow Function With One Parameter
+# Example of Arrow Function With One Parameter
 
 ![Screenshot](i5.png)
 
-# Arrow Function With Multiple Parameters
+# Example of Arrow Function With Multiple Parameters
 
 ![Screenshot](i6.png)
 
-# Arrow Function with Implicit Return
+# Example of Arrow Function with Implicit Return
 
 ![Screenshot](i7.png)
 
 # Examples for Practice
 
-## Calculate Square Using Functions
+## Example of Calculate Square Using Functions
 
 ![Screenshot](i8.png)
 
-## Using Arrow Function in Array Methods
+## Example of Using Arrow Function in Array Methods
 
 ![Screenshot](i9.png)
 
-## Returning an Object with Arrow Function
+## Example of Returning an Object with Arrow Function
 
 ![Screenshot](i_10.png)
