@@ -12,6 +12,8 @@
 
 # Arrow Function Without Parameters
 
+![Screenshot](i4.png)
+
 # Arrow Function With One Parameter
 
 # Arrow Function With Multiple Parameters
