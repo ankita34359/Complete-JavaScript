@@ -10,15 +10,15 @@
 
 ## Iterate Backwards:
 
-![Screenshot](i2.png)
+![Screenshot](i3.png)
 
 ## Iterate Over Arrays:
 
-![Screenshot](i3.png)
+![Screenshot](i4.png)
 
 # Example of for...of Loop
 
-![Screenshot](i4.png)
+![Screenshot](i5.png)
 
 ## Iterate Over an Array:
 
