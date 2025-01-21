@@ -41,3 +41,19 @@
 ![Screenshot](i9.png)
 
 # Examples for Practice
+
+## Sum All Numbers in an Array (Using for)
+
+![Screenshot](i_10.png)
+
+## Log Each Character in a String (Using for...of)
+
+![Screenshot](i_11.png)
+
+## List All Keys and Values of an Object (Using for...in)
+
+![Screenshot](i_12.png)
+
+## Find Even Numbers in an Array
+
+![Screenshot](i_13.png)
