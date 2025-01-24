@@ -4,6 +4,8 @@
 
 ---
 
+##  Write the program in Q1 using for in loop.
+
 ![Screenshot](i2.png)
 
 ---
