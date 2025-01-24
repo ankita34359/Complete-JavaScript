@@ -16,4 +16,6 @@
 
 ---
 
+# Write a function to find mean of 5 numbers.
+
 ![Screenshot](i4.png)
