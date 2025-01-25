@@ -34,3 +34,21 @@ String interpolation is the ability to embed variables or expressions directly w
 
 - Makes strings more readable and easier to construct dynamically.
 - Eliminates the need for concatenation.
+
+## Escape Sequence Characters
+
+Escape sequences are special character combinations that allow you to include characters in a string that are otherwise difficult to represent.
+
+### Common Escape Characters in JavaScript
+
+The table below lists common escape characters in JavaScript, their meanings, and examples:
+
+| **Escape Sequence** | **Meaning**       | **Example**                      |
+|----------------------|-------------------|-----------------------------------|
+| `\'`                | Single quote      | `'It\'s a sunny day.'`           |
+| `\"`                | Double quote      | `"She said, \"Hello!\""`         |
+| `\\`                | Backslash         | `"This is a backslash: \\ "`     |
+| `\n`                | Newline           | `"First line\nSecond line"`      |
+| `\t`                | Tab               | `"Name:\tAlice"`                 |
+| `\b`                | Backspace         | `"Hello\bWorld"`                 |
+| `\r`                | Carriage return   | `"Hello\rWorld"`                 |
