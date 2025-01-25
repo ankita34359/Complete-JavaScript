@@ -54,7 +54,7 @@ The table below lists common escape characters in JavaScript, their meanings, an
 | `\r`                | Carriage return   | `"Hello\rWorld"`                 |
 
 
-### Summary of JavaScript Strings
+### Summary
 
 The table below summarizes key concepts related to strings in JavaScript:
 
