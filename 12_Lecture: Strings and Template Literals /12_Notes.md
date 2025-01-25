@@ -9,3 +9,18 @@ A string is a sequence of characters used to represent text. In JavaScript, stri
 - Double quotes (" ")
 - Single quotes (' ')
 - Backticks (` `) - Template literals.
+
+### Key Points:
+
+- Double and single quotes are interchangeable but must be consistent.
+- Template literals (backticks) provide additional features like string interpolation.
+
+## Template Literals
+
+Template literals are a type of string enclosed in backticks (` `). They are more powerful than regular strings because they allow:
+
+### Multiline Strings.
+
+String Interpolation (inserting variables or expressions directly).
+Multiline Strings:
+Template literals make it easy to write strings that span multiple lines.
