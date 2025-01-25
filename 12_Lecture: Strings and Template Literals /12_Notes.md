@@ -29,3 +29,8 @@ Template literals make it easy to write strings that span multiple lines.
 ##  String Interpolation
 
 String interpolation is the ability to embed variables or expressions directly within a string using ${} inside template literals.
+
+### Why Use Interpolation?
+
+- Makes strings more readable and easier to construct dynamically.
+- Eliminates the need for concatenation.
