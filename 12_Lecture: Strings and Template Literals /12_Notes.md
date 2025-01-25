@@ -52,3 +52,15 @@ The table below lists common escape characters in JavaScript, their meanings, an
 | `\t`                | Tab               | `"Name:\tAlice"`                 |
 | `\b`                | Backspace         | `"Hello\bWorld"`                 |
 | `\r`                | Carriage return   | `"Hello\rWorld"`                 |
+
+
+### Summary of JavaScript Strings
+
+The table below summarizes key concepts related to strings in JavaScript:
+
+| **Concept**            | **Explanation**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| **String Types**        | Strings can be enclosed in `" "`, `' '`, or `` ` ``.                          |
+| **Template Literals**   | Strings enclosed in backticks (`` ` ``) that support multiline strings and interpolation. |
+| **String Interpolation**| Embedding variables or expressions into strings using `${}` within template literals. |
+| **Escape Sequences**    | Special character sequences (e.g., `\n`, `\t`, `\\`) to include special characters. |
