@@ -19,8 +19,13 @@ A string is a sequence of characters used to represent text. In JavaScript, stri
 
 Template literals are a type of string enclosed in backticks (` `). They are more powerful than regular strings because they allow:
 
-### Multiline Strings.
+- Multiline Strings.
+- String Interpolation (inserting variables or expressions directly).
+  
+### Multiline Strings:
 
-String Interpolation (inserting variables or expressions directly).
-Multiline Strings:
 Template literals make it easy to write strings that span multiple lines.
+
+##  String Interpolation
+
+String interpolation is the ability to embed variables or expressions directly within a string using ${} inside template literals.
