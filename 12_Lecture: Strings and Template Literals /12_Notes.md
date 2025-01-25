@@ -8,6 +8,7 @@ A string is a sequence of characters used to represent text. In JavaScript, stri
 
 - Double quotes (" ")
 - Single quotes (' ')
+- 
 - Backticks (` `) - Template literals.
 
 ### Key Points:
