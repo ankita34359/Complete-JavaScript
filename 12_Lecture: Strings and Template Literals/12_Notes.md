@@ -64,4 +64,3 @@ The table below summarizes key concepts related to strings in JavaScript:
 | **Template Literals**   | Strings enclosed in backticks (`` ` ``) that support multiline strings and interpolation. |
 | **String Interpolation**| Embedding variables or expressions into strings using `${}` within template literals. |
 | **Escape Sequences**    | Special character sequences (e.g., `\n`, `\t`, `\\`) to include special characters. |
-
