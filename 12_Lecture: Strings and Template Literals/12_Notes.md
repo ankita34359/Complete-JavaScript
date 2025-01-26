@@ -10,7 +10,7 @@ A string is a sequence of characters used to represent text. In JavaScript, stri
 - Single quotes (' ')
 - Backticks (` `) - Template literals.
 
-### Key Points:
+### Key Points: 
 
 - Double and single quotes are interchangeable but must be consistent.
 - Template literals (backticks) provide additional features like string interpolation.
