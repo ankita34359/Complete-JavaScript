@@ -31,4 +31,17 @@ Replaces the first occurrence of a specified substring with another string.
 ## 7. replaceAll(searchValue, newValue)
 
 Replaces all occurrences of a specified substring.
+
+## 8. concat()
+
+Joins two or more strings together.
+
  
+## 9. includes(substring)
+
+Checks if a string contains a specified substring. Returns true or false.
+
+## 10. startsWith(substring) and endsWith(substring)
+
+- `startsWith()` checks if a string starts with a specified substring.
+- `endsWith()` checks if a string ends with a specified substring.
