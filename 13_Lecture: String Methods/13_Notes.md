@@ -45,3 +45,25 @@ Checks if a string contains a specified substring. Returns true or false.
 
 - `startsWith()` checks if a string starts with a specified substring.
 - `endsWith()` checks if a string ends with a specified substring.
+
+## 11. split(delimiter)
+
+Splits a string into an array of substrings based on a specified delimiter.
+
+
+## 12. indexOf(substring) and lastIndexOf(substring)
+
+- `indexOf()` returns the index of the first occurrence of a substring.
+- `lastIndexOf()` returns the index of the last occurrence.
+
+## 13. charAt(index)
+
+Returns the character at a specified index.
+
+## 14. charCodeAt(index)
+
+Returns the Unicode value of the character at a specified index.
+
+## 15. repeat(count)
+
+Repeats a string a specified number of times.
