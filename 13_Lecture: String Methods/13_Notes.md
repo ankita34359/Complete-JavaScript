@@ -17,3 +17,18 @@ Removes whitespace from both ends of a string.
 ## 4. slice(start, end)
 
 Extracts a part of a string and returns it as a new string. The `start` index is inclusive, and the `end` index is exclusive.
+
+## 5. substring(start, end)
+
+Similar to `slice()`, but it doesn’t accept negative indexes.
+
+
+## 6. replace(searchValue, newValue)
+
+Replaces the first occurrence of a specified substring with another string.
+
+
+## 7. replaceAll(searchValue, newValue)
+
+Replaces all occurrences of a specified substring.
+ 
