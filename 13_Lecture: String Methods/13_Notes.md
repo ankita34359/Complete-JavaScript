@@ -2,6 +2,8 @@
 
 Strings in JavaScript come with built-in methods that allow us to manipulate, search, and analyze text efficiently. This lecture covers commonly used string methods with clear explanations and examples.
 
+---
+
 ### 1. length  
 
 The length property returns the number of characters in a string.
@@ -77,3 +79,26 @@ Repeats a string a specified number of times.
 ### 17. toString()
 
 Converts a value to a string. 
+
+---
+
+# String Methods Summary
+
+The table below provides an overview of commonly used JavaScript string methods, their descriptions, and examples:
+
+
+| **Method**       | **Description**                                | **Example**                           |
+|-------------------|-----------------------------------------------|---------------------------------------|
+| **length**        | Returns string length                        | `"Hello".length → 5`                  |
+| **toUpperCase()** | Converts to uppercase                        | `"hello".toUpperCase() → "HELLO"`     |
+| **toLowerCase()** | Converts to lowercase                        | `"HELLO".toLowerCase() → "hello"`     |
+| **trim()**        | Removes whitespace                           | `" hi ".trim() → "hi"`                |
+| **slice()**       | Extracts part of a string                    | `"Hello".slice(1, 4) → "ell"`         |
+| **replace()**     | Replaces the first match                     | `"abc".replace("a", "x") → "xbc"`     |
+| **replaceAll()**  | Replaces all matches                         | `"aaa".replaceAll("a", "x") → "xxx"`  |
+| **includes()**    | Checks if string contains a substring        | `"abc".includes("b") → true`          |
+| **split()**       | Splits string into an array                  | `"a,b".split(",") → ["a", "b"]`       |
+| **indexOf()**     | First occurrence index                       | `"abcabc".indexOf("b") → 1`           |
+| **startsWith()**  | Checks if string starts with a substring      | `"abc".startsWith("a") → true`        |
+| **charAt()**      | Gets character at index                      | `"abc".charAt(1) → "b"`               |
+| **repeat()**      | Repeats string                               | `"ha".repeat(3) → "hahaha"`           |
