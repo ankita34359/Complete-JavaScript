@@ -67,3 +67,13 @@ Returns the Unicode value of the character at a specified index.
 ## 15. repeat(count)
 
 Repeats a string a specified number of times.
+
+
+## 16. padStart(targetLength, padString) and padEnd(targetLength, padString)
+
+- `padStart()` pads a string at the beginning until it reaches the target length.
+- `padEnd()` pads a string at the end.
+
+## 17. toString()
+
+Converts a value to a string. 
