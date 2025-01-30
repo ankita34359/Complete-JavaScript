@@ -1,4 +1,10 @@
+# Examples of String Methods
+
+## Example of 'length' method
+
 ![Screenshot](i1.png)
+
+## Example of 'toUpperCase() and toLowerCase()' method
 
 ![Screenshot](i2.png)
 
