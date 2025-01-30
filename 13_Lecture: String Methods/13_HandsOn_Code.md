@@ -40,30 +40,30 @@
 
 ![Screenshot](i_11.png)
 
-## Example of 'charAt(index)' method
+## Example of 'split(delimiter)' method
 
 ![Screenshot](i_12.png)
 
-## Example of 'charCodeAt(index)' method
+## Example of 'indexOf(substring) and lastIndexOf(substring)' method
 
 ![Screenshot](i_13.png)
 
-## Example of 'repeat(count)' method
+## Example of 'charAt(index)' method
 
 ![Screenshot](i_14.png)
 
-## Example of 'trim()' method
+## Example of 'charCodeAt(index)' method
 
 ![Screenshot](i_15.png)
 
-## Example of 'padStart(targetLength, padString) and padEnd(targetLength, padString)' method
+## Example of 'repeat(count)' method
 
 ![Screenshot](i_16.png)
 
-## Example of 'toString()' method
+## Example of 'padStart(targetLength, padString) and padEnd(targetLength, padString)' method
 
 ![Screenshot](i_17.png)
 
-## Example of 'trim()' method
+## Example of 'toString()' method
 
 ![Screenshot](i_18.png)
