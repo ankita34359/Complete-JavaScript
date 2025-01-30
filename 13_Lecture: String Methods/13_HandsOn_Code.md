@@ -12,11 +12,11 @@
 
 ![Screenshot](i3.png)
 
-## Example of 'slice(start, end)' method
+## Example of slice(start, end) method
 
 ![Screenshot](i5.png)
 
-## Example of 'replace(searchValue, newValue)' method
+## Example of substring(start, end) method
 
 ![Screenshot](i6.png)
 
