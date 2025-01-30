@@ -20,23 +20,23 @@
 
 ![Screenshot](i6.png)
 
-## Example of 'replaceAll(searchValue, newValue)' method
+## Example of 'replace(searchValue, newValue)' method
 
 ![Screenshot](i7.png)
 
-## Example of 'concat()' method
+## Example of 'replaceAll(searchValue, newValue)' method
 
 ![Screenshot](i8.png)
 
-## Example of 'startsWith(substring) and endsWith(substring)' method
+## Example of 'concat()' method
 
 ![Screenshot](i9.png)
 
-## Example of 'split(delimiter)' method
+## Example of 'includes(substring)' method
 
 ![Screenshot](i_10.png)
 
-## Example of 'indexOf(substring) and lastIndexOf(substring)' method
+## Example of 'startsWith(substring) and endsWith(substring)' method
 
 ![Screenshot](i_11.png)
 
