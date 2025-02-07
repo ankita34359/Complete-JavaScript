@@ -20,3 +20,12 @@ The join() method is similar to toString(), but allows you to specify a separato
 
 - You can define any separator (,, -, |, etc.).
 - It does not modify the original array.
+
+## 3. pop() - Remove the Last Element from an Array
+
+The pop() method removes the last element from an array and returns it.
+
+## Key Points:
+
+- Modifies the original array.
+- Returns the removed element.
