@@ -15,8 +15,10 @@ If we try to access an index that does not exist, JavaScript returns undefined:
    
 The `push()` method adds one or more elements to the end of an array.
 
-## 2. Using unshift() (Add to the Beginning)
+2. Using `unshift()` (Add to the Beginning)
 
-The unshift() method adds elements to the beginning of an array.
+The `unshift()` method adds elements to the beginning of an array.
 
+## How to Change a Value in an Array
 
+You can modify an array element by accessing it using its index and assigning a new value.
