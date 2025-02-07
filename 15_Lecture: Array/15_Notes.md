@@ -18,6 +18,10 @@ console.log(numbers[4]); // Output: 50
 
 If we try to access an index that does not exist, JavaScript returns undefined:
 
+```javascript
+console.log(numbers[10]); // Output: undefined
+```
+
 ---
 
 ## How to Add a New Value to an Array
