@@ -9,6 +9,13 @@ An array in JavaScript is a special variable used to store multiple values in a 
 
 In JavaScript, arrays are zero-indexed, meaning the first element starts at index 0.
 
+```javascript
+let numbers = [10, 20, 30, 40, 50];
+console.log(numbers[0]); // Output: 10
+console.log(numbers[2]); // Output: 30
+console.log(numbers[4]); // Output: 50
+```
+
 If we try to access an index that does not exist, JavaScript returns undefined:
 
 ---
