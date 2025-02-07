@@ -6,3 +6,5 @@ An array in JavaScript is a special variable used to store multiple values in a 
 ## How to Access Values from an Array
 
 In JavaScript, arrays are zero-indexed, meaning the first element starts at index 0.
+
+If we try to access an index that does not exist, JavaScript returns undefined:
