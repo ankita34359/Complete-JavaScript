@@ -3,11 +3,15 @@
 ## What is an Array?
 An array in JavaScript is a special variable used to store multiple values in a single variable. It allows efficient data storage and manipulation. Arrays can hold different data types, including numbers, strings, and even objects.
 
+---
+
 ## How to Access Values from an Array
 
 In JavaScript, arrays are zero-indexed, meaning the first element starts at index 0.
 
 If we try to access an index that does not exist, JavaScript returns undefined:
+
+---
 
 ## How to Add a New Value to an Array
 
@@ -41,6 +45,8 @@ colors[colors.length] = "Green"; // Adds "Green" at index 2
 console.log(colors); // Output: ["Red", "Blue", "Green"]
 ```
 
+---
+
 ## How to Change a Value in an Array
 
 You can change an array element by directly accessing its index and assigning a new value.
@@ -59,11 +65,15 @@ numbers[5] = 10;
 console.log(numbers); // Output: [1, 2, 3, undefined, undefined, 10]
 ```
 
+---
+
 ## Note
 
 Strings are immutable means they cannot change.
 
 Array are mutable means they can change.
+
+---
 
 ## Conclusion
 
