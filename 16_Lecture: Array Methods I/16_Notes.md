@@ -60,3 +60,13 @@ The unshift() method adds one or more elements to the beginning of an array.
 - Returns the new length of the array.
 
   
+## 7. delete - Remove an Element but Keep the Index
+
+The delete keyword removes an element from an array without shifting the remaining elements.
+
+### Key Points:
+
+- It removes the element but leaves an empty space (undefined).
+- The array length does not change.
+
+**Warning:** It’s generally not recommended to use delete for arrays because it leaves gaps. Use splice() instead if you want to remove an element completely.
