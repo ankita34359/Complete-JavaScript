@@ -25,7 +25,26 @@ The join() method is similar to toString(), but allows you to specify a separato
 
 The pop() method removes the last element from an array and returns it.
 
-## Key Points:
+### Key Points:
+
+- Modifies the original array.
+- Returns the removed element.
+
+
+## 4. push() - Add an Element to the End of an Array
+
+The push() method adds one or more elements to the end of an array.
+
+### Key Points:
+
+- Modifies the original array.
+- Returns the new length of the array.
+
+## 5. shift() - Remove the First Element from an Array
+
+The shift() method removes the first element and returns it.
+
+### Key Points:
 
 - Modifies the original array.
 - Returns the removed element.
