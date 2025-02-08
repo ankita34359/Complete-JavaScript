@@ -2,6 +2,8 @@
 
 In this lecture, we will explore some essential array methods in JavaScript that help in manipulating arrays effectively.
 
+---
+
 ## 1.) toString() - Convert an Array to a String
 
 The `toString()` method converts an array into a comma-separated string.
@@ -71,6 +73,8 @@ The delete keyword removes an element from an array without shifting the remaini
 
 **Warning:** It’s generally not recommended to use delete for arrays because it leaves gaps. Use splice() instead if you want to remove an element completely.
 
+---
+
 ## Array Methods Summary
 
 The table below provides an overview of commonly used JavaScript array methods, whether they modify the original array, and what they return:
@@ -85,6 +89,8 @@ The table below provides an overview of commonly used JavaScript array methods, 
 | **unshift()**  | Adds elements to the beginning                  | ✅ Yes                     | New length                 |
 | **delete**     | Removes an element but keeps the index (not recommended) | ✅ Yes                     | `undefined` at deleted index |
 
+---
+
 ## Conclusion
 
 These array methods are essential tools for managing and modifying arrays in JavaScript.
@@ -93,5 +99,7 @@ These array methods are essential tools for managing and modifying arrays in Jav
 - Use pop() and shift() to remove elements.
 - Use toString() and join() to convert arrays to strings.
 - Avoid delete because it leaves undefined values.
-  
+
+---
+
 Mastering these methods will make working with arrays easier and more efficient in your JavaScript programs. 🚀
