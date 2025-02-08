@@ -96,3 +96,15 @@ The reverse() method reverses the order of elements in an array.
 
 - Modifies the original array.
 - Useful for reversing sorted arrays.
+
+##  Array Methods Summary
+
+The table below provides an overview of commonly used JavaScript array methods, whether they modify the original array, and what they return:
+
+| **Method**    | **Description**            | **Modifies Original Array?** | **Returns**             |
+|--------------|----------------------------|----------------------------|--------------------------|
+| **concat()**  | Merges arrays               | ❌ No                      | New merged array         |
+| **sort()**    | Sorts elements              | ✅ Yes                     | Sorted array             |
+| **splice()**  | Adds/removes elements       | ✅ Yes                     | Removed elements         |
+| **slice()**   | Extracts elements           | ❌ No                      | Extracted elements       |
+| **reverse()** | Reverses array order        | ✅ Yes                     | Reversed array          |
