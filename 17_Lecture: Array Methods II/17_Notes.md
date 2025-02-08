@@ -70,3 +70,13 @@ console.log(numbers); // Output: [10, 100, 200, 40]
 
 - Modifies the original array.
 - Can be used to add, remove, or replace elements.
+
+## 4. slice() - Extract a Portion of an Array
+
+The slice() method extracts a portion of an array without modifying the original array.
+
+**Syntax:**
+
+```js
+array.slice(startIndex, endIndex);
+```
