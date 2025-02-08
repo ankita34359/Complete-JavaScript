@@ -32,6 +32,12 @@ numbers.sort((a, b) => a - b);
 console.log(numbers); // Output: [1, 5, 10, 25, 40, 100]
 ```
 
+### Key Points:
+
+- Changes the original array.
+- Sorts alphabetically by default.
+- Use a custom comparison function for numerical sorting.
+
 ## 3. splice() - Add/Remove Elements from an Array
 
 The splice() method is used to add, remove, or replace elements in an array.
