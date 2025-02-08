@@ -87,3 +87,12 @@ array.slice(startIndex, endIndex);
 
 - Does not modify the original array.
 - Can be used to copy parts of an array.
+
+## 5. reverse() - Reverse the Order of an Array
+
+The reverse() method reverses the order of elements in an array.
+
+### Key Points:
+
+- Modifies the original array.
+- Useful for reversing sorted arrays.
