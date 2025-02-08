@@ -48,3 +48,15 @@ The shift() method removes the first element and returns it.
 
 - Modifies the original array.
 - Returns the removed element.
+
+
+## 6. unshift() - Add Elements to the Beginning of an Array
+
+The unshift() method adds one or more elements to the beginning of an array.
+
+### Key Points:
+
+- Modifies the original array.
+- Returns the new length of the array.
+
+  
