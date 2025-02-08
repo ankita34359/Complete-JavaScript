@@ -32,3 +32,35 @@ numbers.sort((a, b) => a - b);
 console.log(numbers); // Output: [1, 5, 10, 25, 40, 100]
 ```
 
+## 3. splice() - Add/Remove Elements from an Array
+
+The splice() method is used to add, remove, or replace elements in an array.
+
+**Removing Elements:**
+
+```javascript
+let colors = ["Red", "Green", "Blue", "Yellow"];
+colors.splice(1, 2);  // Removes 2 elements starting from index 1
+console.log(colors);   // Output: ["Red", "Yellow"]
+```
+
+**Adding Elements:**
+
+```javascript
+let fruits = ["Apple", "Banana", "Cherry"];
+fruits.splice(1, 0, "Mango", "Orange"); // Adds at index 1
+console.log(fruits);  // Output: ["Apple", "Mango", "Orange", "Banana", "Cherry"]
+```
+
+**Replacing Elements:**
+
+```javascript
+let numbers = [10, 20, 30, 40];
+numbers.splice(1, 2, 100, 200); // Replaces 2 elements at index 1
+console.log(numbers); // Output: [10, 100, 200, 40]
+```
+
+### Key Points:
+
+- Modifies the original array.
+- Can be used to add, remove, or replace elements.
