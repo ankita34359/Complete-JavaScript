@@ -80,3 +80,10 @@ The slice() method extracts a portion of an array without modifying the original
 ```js
 array.slice(startIndex, endIndex);
 ```
+
+**Note** The endIndex is not included in the extracted part.
+
+### Key Points:
+
+- Does not modify the original array.
+- Can be used to copy parts of an array.
