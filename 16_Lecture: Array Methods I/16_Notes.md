@@ -70,3 +70,17 @@ The delete keyword removes an element from an array without shifting the remaini
 - The array length does not change.
 
 **Warning:** It’s generally not recommended to use delete for arrays because it leaves gaps. Use splice() instead if you want to remove an element completely.
+
+## Array Methods Summary
+
+The table below provides an overview of commonly used JavaScript array methods, whether they modify the original array, and what they return:
+
+| **Method**      | **Description**                                      | **Modifies Original Array?** | **Returns**               |
+|----------------|--------------------------------------------------|----------------------------|----------------------------|
+| **toString()** | Converts an array to a string                   | ❌ No                      | String                     |
+| **join()**     | Converts an array to a string with a separator  | ❌ No                      | String                     |
+| **pop()**      | Removes the last element                        | ✅ Yes                     | Removed element            |
+| **push()**     | Adds elements to the end                        | ✅ Yes                     | New length                 |
+| **shift()**    | Removes the first element                       | ✅ Yes                     | Removed element            |
+| **unshift()**  | Adds elements to the beginning                  | ✅ Yes                     | New length                 |
+| **delete**     | Removes an element but keeps the index (not recommended) | ✅ Yes                     | `undefined` at deleted index |
