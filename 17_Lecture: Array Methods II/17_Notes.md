@@ -111,10 +111,10 @@ The table below provides an overview of commonly used JavaScript array methods, 
 
 ## Conclusion
 
-- Use concat() to merge arrays.
-- Use sort() for sorting (numeric sorting requires a function).
-- Use splice() to add/remove elements at any position.
-- Use slice() to extract a part of an array.
-- Use reverse() to reverse array order.
+- Use `concat()` to merge arrays.
+- Use `sort()` for sorting (numeric sorting requires a function).
+- Use `splice()` to add/remove elements at any position.
+- Use `slice()` to extract a part of an array.
+- Use `reverse()` to reverse array order.
 
 Mastering these methods will help you manipulate arrays efficiently in JavaScript. 🚀
