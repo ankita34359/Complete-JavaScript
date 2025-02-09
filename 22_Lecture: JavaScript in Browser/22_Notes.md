@@ -1,4 +1,4 @@
-# **Lecture 15: Using JavaScript in the Browser**
+# **Using JavaScript in the Browser**
 
 JavaScript is primarily used to make web pages interactive and dynamic in browsers. In this lecture, we will cover:
 
