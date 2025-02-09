@@ -1,4 +1,4 @@
-# **Lecture 13: Iterating Over Arrays Using Loops in JavaScript**  
+# **Iterating Over Arrays Using Loops in JavaScript**  
 
 In JavaScript, we can iterate over arrays using different **loops** to process elements efficiently. In this lecture, we will explore the following loops:
 
