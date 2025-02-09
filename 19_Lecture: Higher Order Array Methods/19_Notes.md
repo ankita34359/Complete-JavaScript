@@ -1,4 +1,4 @@
-# **Lecture 134: Higher-Order Array Methods in JavaScript**
+# **Higher-Order Array Methods in JavaScript**
 
 In JavaScript, **higher-order functions** are functions that take other functions as arguments or return a function. Some of the most commonly used higher-order array methods include:
 
