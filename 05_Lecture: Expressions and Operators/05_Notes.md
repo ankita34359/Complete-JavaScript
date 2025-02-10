@@ -2,7 +2,7 @@
 
 In JavaScript, expressions and operators are fundamental building blocks that let us to perform actions, calculations, and logic in our code.
 
-## 1. Expressions
+## 1. Expressions 
 
 ### What is an Expression?
 
