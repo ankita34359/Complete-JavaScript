@@ -1,4 +1,4 @@
-# **Element-Only Navigation in JavaScript**
+# **Element-Only Navigation in JavaScript** 
 
 In this lecture, we explore how to navigate through elements in the DOM while avoiding **text nodes** and **comment nodes**.
 
