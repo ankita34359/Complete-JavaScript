@@ -1,6 +1,6 @@
 # **Table-Based Navigation and HTML Collection in JavaScript**
 
-In this lecture, we explore how to navigate tables in the DOM using JavaScript and how to work with **HTML collections**. 
+In this lecture, we explore how to navigate tables in the DOM using JavaScript and how to work with **HTML collections**.  
 
 ---
 
