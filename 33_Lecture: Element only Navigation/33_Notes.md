@@ -2,7 +2,7 @@
 
 In this lecture, we explore how to navigate through elements in the DOM while avoiding **text nodes** and **comment nodes**.
 
----
+--- 
 
 ## **1. The Problem: Text Nodes & Comment Nodes in Navigation**
 When using `childNodes`, JavaScript includes **text nodes** (spaces, line breaks) and **comment nodes** along with element nodes. This can cause issues when manipulating elements.
