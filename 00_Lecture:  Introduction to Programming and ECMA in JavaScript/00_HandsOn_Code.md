@@ -1,4 +1,4 @@
-## Example of Programming:
+## Example of Programming: 
 
 Suppose we want your computer to add two numbers:
 
