@@ -16,7 +16,7 @@ The if statement checks a condition and executes the code block if the condition
 
 Syntax:
 
-```javascript
+```javascript 
 
 if (condition) {
   // Code to execute if condition is true
